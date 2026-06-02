@@ -1,0 +1,17 @@
+# === Autorské zdroje — NEPUBLIKOVAT (copyright) ===
+# Žádné PDF se nepublikuje (oba jsou autorské knihy). *.pdf je pojistka
+# pro případ, že by se přesný název s diakritikou kvůli normalizaci nezachytil.
+*.pdf
+Vágnerová.pdf
+Kazuistiky 3B.pdf
+zdroje/vagnerova.txt
+
+# === Prostředí / systémové ===
+.venv/
+.claude/
+.DS_Store
+
+# === Pomocné build soubory (karty se generují z karty-data.json) ===
+karty/_fragments/
+karty/_build_cards.py
+karty/_cards_array.js

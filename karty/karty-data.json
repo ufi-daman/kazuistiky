@@ -1,0 +1,1658 @@
+[
+  {
+    "front": "Co je mentální retardace a kde je „hranice defektivity\"?",
+    "back": "Souhrnné označení VROZENÉHO defektu rozumových schopností (méně než 70 % normy), trvalého. Příčinou je porucha CNS. Hranice mentální defektivity = IQ 70 (průměr = IQ 100). V populaci ~3 %.",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.10, STR.77, 79"
+  },
+  {
+    "front": "Stupně mentální retardace podle MKN-10 (kódy + pásma IQ)?",
+    "back": "F70 lehká (50–69) · F71 středně těžká (35–49) · F72 těžká (20–34) · F73 hluboká (0–19). Staré názvy debilita/imbecilita/idiocie se už nepoužívají (pejorativní).",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "klasifikace",
+    "zdroj": "Vágnerová Tab.10.1, STR.78"
+  },
+  {
+    "front": "Středně těžká MR (F71) — jaká je úroveň myšlení, řeči a učení?",
+    "back": "Myšlení ≈ předškolní dítě. Řeč chudá, agramatická, špatně artikulovaná; chybí i méně běžné konkrétní pojmy. Učí se jen mechanicky na praktické úrovni. Zvládne běžné návyky a jednoduché dovednosti (sebeobsluha, pracovní úkony).",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "stupeň F71",
+    "zdroj": "Vágnerová STR.78"
+  },
+  {
+    "front": "Klíčový rozdíl: mentální retardace × demence?",
+    "back": "MR = VROZENÝ defekt rozumu od počátku vývoje, trvalý. Demence = ZÍSKANÝ úbytek dříve normálních rozumových schopností. (Záměna je častá zkušební chyba.)",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.77"
+  },
+  {
+    "front": "Hlavní příčiny vzniku mentální retardace?",
+    "back": "1) Dědičné (Downův sy = trizomie 21; polygenní). 2) Teratogenní prenatální (záření, alkohol, léky, virus zarděnek). 3) Perinatální (asfyxie, krvácení do mozku). 4) Postnatální do 18 měsíců (později = získané). POZOR: pseudooligofrenie (ze zanedbanosti, bez narušení CNS) NENÍ MR.",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.78"
+  },
+  {
+    "front": "Terapie MR — čeho se VYVAROVAT?",
+    "back": "Nepřetěžovat (nadměrné/nesrozumitelné nároky = stres → afekty, sebepoškozování). Nevyžadovat abstrakci, rychlé reakce, časté změny úkolů ani flexibilitu. Nepoužívat ironii/metafory. Neměnit zbytečně prostředí, režim a pečující osoby. Nenechat dospělého bez vedení (jinak ztrácí dovednosti).",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.79–81"
+  },
+  {
+    "front": "Terapie MR — na čem PRACOVAT?",
+    "back": "Klidné, stabilní, srozumitelné prostředí + stereotyp a pravidelný režim. Citová jistota (vztah s blízkou osobou = motivace učení). Nácvik sebeobsluhy/soběstačnosti i v dospělosti. Přiměřené pracovní začlenění (uchovává kompetence + dává náplň). Pozitivní hodnocení/pochvala. Logopedie na vadu řeči.",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.79–83"
+  },
+  {
+    "front": "Případ 1: jak vyložit okusování nehtů, sníženou sebeobsluhu a apatii?",
+    "back": "Okusování nehtů = autostimulace / obranná reakce (uvolnění napětí, náhradní podněty), ne pouhý zlozvyk → reagovat úpravou zátěže a podnětů, ne tlakem. Apatie: bez činnosti a vedení MR dospělý „chátrá\" → přímou intervencí je přiměřená pracovní náplň (denní stacionář).",
+    "pripad": 1,
+    "obor": "psychopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.79, 81, 83"
+  },
+  {
+    "front": "Případ 1: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "SPC (speciálně-pedagogické centrum), denní stacionář, SPMP ČR, klinický logoped (vada řeči + AAK), chráněné dílny / podporované zaměstnávání, sociální odbor (příspěvek na péči).",
+    "pripad": 1,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je Aspergerův syndrom a kam patří?",
+    "back": "Pervazivní vývojová porucha (PAS, vysokofunkční). Disharmonický vývoj osobnosti s převažující ZÁVAŽNOU poruchou v oblasti sociálních vztahů. Na rozdíl od dětského autismu je inteligence a řeč zpravidla V NORMĚ.",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.11.2, STR.87"
+  },
+  {
+    "front": "Aspergerův syndrom v rámci spektra PAS — čím se liší od ostatních podtypů?",
+    "back": "Je VYSOKOFUNKČNÍ: intelekt i řeč v normě (F84.5). Dětský autismus (F84.0) = plná triáda od raného věku, často + MR. Atypický autismus (F84.1) = neúplná kritéria. Hellerův sy = regres po normálním vývoji do 2 let.",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "typ PAS",
+    "zdroj": "Vágnerová STR.87"
+  },
+  {
+    "front": "Co je triáda PAS a jak se projevuje u Aspergera?",
+    "back": "Triáda = porucha sociální interakce + komunikace + stereotypní/repetitivní chování a omezené zájmy. U Aspergera je jádrem porucha sociálních vztahů (sociální naivita, doslovnost, neporozumění ironii); řeč i intelekt zachovány.",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "projevy / triáda",
+    "zdroj": "Vágnerová STR.84–87; Thorová ⚠️"
+  },
+  {
+    "front": "Jaké jsou příčiny PAS (a jaký mýtus u zkoušky vyvrátit)?",
+    "back": "Vrozená neurovývojová porucha — ORGANICKÉ postižení mozku, převážně GENETICKÉ předurčení. Faktory vnějšího prostředí nehrají podstatnou roli. POZOR: teorie „chladné matky\" (Bettelheim) je VYVRÁCENÝ, překonaný mýtus!",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.84"
+  },
+  {
+    "front": "Aspergerův syndrom × dětský autismus × mentální retardace — jak odlišit?",
+    "back": "Asperger: intelekt i řeč v normě, jádrem porucha sociálních vztahů. Dětský autismus: řeč nápadná/opožděná, často snížen intelekt, plná triáda od raného věku. MR: globální snížení rozumu (IQ<70), NE primárně sociální porucha. Vývojová dysfázie: narušena řeč, ale sociální interakce zachována.",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.77, 85–87"
+  },
+  {
+    "front": "Terapie Aspergerova syndromu — čeho se VYVAROVAT?",
+    "back": "Nesvádět poruchu na rodinu (mýtus chladné matky). Nepoužívat ironii, metafory, nepřímé pokyny (chápe doslovně). Neměnit náhle režim a pravidla (úzkost/afekt). Nepřetěžovat nestrukturovanými sociálními situacemi. Nepodceňovat intelekt — není mentálně retardovaný.",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.84–87; Thorová ⚠️"
+  },
+  {
+    "front": "Terapie Aspergerova syndromu — na čem PRACOVAT?",
+    "back": "Nácvik sociálních dovedností (explicitní výuka nepsaných pravidel — intelekt to umožňuje). Strukturované, předvídatelné prostředí, vizualizace. Podpora v běžné ZŠ (asistent, IVP, prevence šikany). Využít úzké zájmy jako motivaci a most ke vztahům. Podpora neúplné rodiny.",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.87; Thorová ⚠️"
+  },
+  {
+    "front": "Případ 2: jak vyložit komplikovaný porod, opožděný psychomotorický vývoj a běžnou ZŠ?",
+    "back": "Komplikovaný porod + opožděný psychomotorický vývoj = možný perinatální rizikový faktor na pozadí vrozené poruchy. Běžnou ZŠ zvládá, protože intelekt a řeč jsou v normě (vysokofunkční PAS) — potřebuje ale podporu v sociálních situacích a prevenci šikany.",
+    "pripad": 2,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.84, 87"
+  },
+  {
+    "front": "Případ 2: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "NAUTIS (dříve APLA) — diagnostika a nácvik sociálních dovedností. SPC pro PAS — IVP, asistent pedagoga v běžné ZŠ. Klinický psycholog / dětský psychiatr (komorbidní úzkost). Sociální odbor (podpora neúplné rodiny).",
+    "pripad": 2,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je ADHD (syndrom hyperaktivity) a jaká je jeho příčina?",
+    "back": "Porucha aktivační úrovně, často kombinovaná s poruchami pozornosti (ADHD = attention deficit hyperactivity disorder). Příčinou je nejčastěji odchylka funkce CNS; v ČR uváděna jako symptom LMD (lehké mozkové dysfunkce). Postihuje 5–10 % populace, převážně chlapce. NENÍ to porucha inteligence ani nevychovanost.",
+    "pripad": 3,
+    "obor": "hyperaktivita/ADHD",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.7.2, STR.43"
+  },
+  {
+    "front": "Tři jádrové složky ADHD?",
+    "back": "1) HYPERAKTIVITA – nadměrné, neúčelné nutkání k pohybu, dítě ho neovládá (rušivost). 2) IMPULZIVITA – reakce bez rozmyšlení, neodhadne následky, nedovede počkat. 3) PORUCHA POZORNOSTI – slabé soustředění, „vázanost na podněty“ (Matějček), nesystematičnost. + hyperexcitabilita (emoční dráždivost, výkyvy).",
+    "pripad": 3,
+    "obor": "hyperaktivita/ADHD",
+    "tema": "klasifikace",
+    "zdroj": "Vágnerová STR.43–44"
+  },
+  {
+    "front": "Kdy se ADHD nejvíc projevuje a jak dlouho potíže trvají?",
+    "back": "Projevuje se obyčejně už v předškolním věku, NEJNÁPADNĚJŠÍ bývá mezi 8.–10. rokem (přesně věk chlapce z případu 3). Na ADHD usuzujeme, pokud první potíže byly už v předškolním věku a přetrvávají déle než 6 měsíců. Potíže nemizí ani v dospělosti.",
+    "pripad": 3,
+    "obor": "hyperaktivita/ADHD",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.43, 45"
+  },
+  {
+    "front": "Jak se ADHD projevuje ve škole?",
+    "back": "90 % dětí s ADHD má problémy ve škole. Pracují povrchně, s chybami, úkol často nedokončí, výkon KOLÍSÁ (jednou úkol zvládne, podruhé bez důvodu nadělá chyby). Učitelé to mylně považují za nedostatek snahy a nevychovanost, ne za projev poruchy funkce CNS, kterou dítě neovládá.",
+    "pripad": 3,
+    "obor": "hyperaktivita/ADHD",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.45"
+  },
+  {
+    "front": "Případ 3: jak vyložit zadrhávání v řeči a poruchu jemné motoriky?",
+    "back": "Komorbidity ADHD na společném NEUROVÝVOJOVÉM základě. Koktavost (balbuties) = narušení plynulosti řeči (opakování/protahování hlásek, bloky), v napětí se zhoršuje – logopedie (Lechta). Porucha koordinace/jemné motoriky = dyspraxie („nešikovnost“, obtížné psaní/sebeobsluha) – ergoterapie, grafomotorika (Jucovičová/Žáčková).",
+    "pripad": 3,
+    "obor": "logopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.43 (rámec); Lechta, Jucovičová/Žáčková ⚠️"
+  },
+  {
+    "front": "KLÍČOVÉ ODLIŠENÍ: ADHD (případ 3) × porucha chování (případ 11)?",
+    "back": "ADHD: dítě chování NEDOKÁŽE ovládat – jde o poruchu funkce CNS (aktivace + pozornost), ne o vzdor. Porucha chování: dítě normy CHÁPE, ale neakceptuje je nebo se jimi nedokáže řídit (jiná hodnotová hierarchie / postoj). Prolínají se (ADHD zvyšuje riziko poruch chování), ale NEJSOU totéž.",
+    "pripad": 3,
+    "obor": "hyperaktivita/ADHD",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.44; kap.20 STR.149"
+  },
+  {
+    "front": "ADHD (případ 3) – čeho se VYVAROVAT?",
+    "back": "Nevykládat projevy jako lenost/nevychovanost (je to CNS, dítě to neovládá). Nepřetěžovat dlouhými úkoly (rychlé přesycení a únava). Nezahrnovat nadměrnou kritikou (sekundární zátěž → fixuje negativní sebepojetí). U koktavosti NETLAČIT, nedokončovat slova, nespěchat (tlak zadrhávání zhoršuje). Nesrovnávat se sestrou/vrstevníky.",
+    "pripad": 3,
+    "obor": "hyperaktivita/ADHD",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.44–45; Lechta ⚠️"
+  },
+  {
+    "front": "ADHD (případ 3) – na čem PRACOVAT?",
+    "back": "Strukturované, předvídatelné prostředí, jasná pravidla, kratší úkoly s pohybovými pauzami. Asistent pedagoga (udržení pozornosti, dokončování úkolů). Pozitivní zpětná vazba a ocenění (chrání sebepojetí). Logopedie na koktavost (klidné tempo, technika řeči). Nácvik jemné motoriky/grafomotoriky. Spolupráce s rodinou (matka dohlíží na přípravu).",
+    "pripad": 3,
+    "obor": "hyperaktivita/ADHD",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.44–45; Jucovičová/Žáčková, Lechta ⚠️"
+  },
+  {
+    "front": "Případ 3: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "PPP (diagnostika ADHD/SPU, podpůrná opatření, IVP), SPC (podpora ve vzdělávání, asistent pedagoga), klinický logoped (koktavost), dětský psychiatr/neurolog (dg. ADHD, případná medikace), ergoterapeut/fyzioterapeut (koordinace, jemná motorika).",
+    "pripad": 3,
+    "obor": "organizace",
+    "tema": "organizace",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je demence a v čem je klíčový rozdíl oproti mentální retardaci?",
+    "back": "Demence = syndrom úbytku komplexu kognitivních funkcí (hlavně inteligence a paměti) — ZTRÁTA již rozvinutých funkcí. Je to ZÍSKANÉ postižení (vzniká po dosažení určitého stupně vývoje, dg. až po 2. roce života) na organickém podkladě CNS. MR je naopak VROZENÁ od počátku vývoje. Demence postihuje ~5 % populace nad 65 let.",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "definice + diferenciace",
+    "zdroj": "Vágnerová kap.9, STR.72"
+  },
+  {
+    "front": "Typy demencí podle Vágnerové?",
+    "back": "1) Atroficko-degenerativní (Alzheimerova choroba) — nejčastější, plíživý začátek. 2) Ischemicko-vaskulární (dříve arteriosklerotická) — patologie mozkových cév, mozkové infarkty, náhlý/stupňovitý průběh. 3) Symptomatické/sekundární (infekce, úraz, otrava). + smíšená (degenerativní + cévní).",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "typy / klasifikace",
+    "zdroj": "Vágnerová STR.73; Pidrman ⚠️"
+  },
+  {
+    "front": "Případ 4: proč pravděpodobně ischemicko-vaskulární demence?",
+    "back": "Žena 70 let s HYPERTENZÍ — vysoký krevní tlak je rizikový faktor patologie mozkových cév a mozkových infarktů. Cévní demence začíná obvykle po 60. roce, často náhle po cévní mozkové příhodě, průběh je stupňovitý (kolísavý). Odlišit od plíživého začátku Alzheimerovy choroby.",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.74"
+  },
+  {
+    "front": "Obecná diagnostická kritéria / projevy demence?",
+    "back": "Úbytek paměti (nejdřív učení novému, pak i staré vzpomínky), úbytek dalších kognitivních funkcí (bradypsychismus, ztráta logiky a plánování), poruchy vnímání (gnostické), apraxie (neumí užít nástroj), poruchy řeči (afázie, ulpívání), poruchy emotivity, poruchy motivace (apaticko-abulický sy), poruchy spánku. Postupně dezorientace a degradace osobnosti.",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.72–73"
+  },
+  {
+    "front": "Případ 4: obtížná orientace v prostoru — jak to vyložit?",
+    "back": "Porucha orientace v prostoru je KOGNITIVNÍ příznak demence (souvisí s úpadkem paměti) — nemocný bloudí i ve známém prostředí, neví kde je. NENÍ to neochota. Nový pobyt v domově pro seniory (změna prostředí) dezorientaci ZHORŠUJE. Pomoc: stabilní známé prostředí + orientační opory (značení, hodiny, kalendář).",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.73, 75"
+  },
+  {
+    "front": "Hlavní příčina (etiologie) demence — bio/psycho/sociál?",
+    "back": "BIO = hlavní: organické poškození CNS (cévní poškození mozku / neurodegenerace; u případu 4 hypertenze → cévní infarkty). PSYCHO a SOCIÁL = modifikátory průběhu (změna prostředí, ztráta opor zhoršují dezorientaci). SPIRITUÁL ⚠️ = jen rozměr důstojnosti a péče, NE etiologie.",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.72–74"
+  },
+  {
+    "front": "Demence — čeho se VYVAROVAT v péči?",
+    "back": "Nepřetěžovat (nadměrný požadavek spouští výbuchy). Zbytečně neměnit prostředí, režim a personál (zhoršuje dezorientaci). Neargumentovat logikou a nevyvracet nesmyslné nápady silou. Neredukovat návštěvy blízkých ('stejně nás nepozná'). Nepřičítat vinu nemocnému za jeho chování.",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.74–76"
+  },
+  {
+    "front": "Demence — na čem PRACOVAT v péči?",
+    "back": "Stabilní, známé a bezpečné prostředí + pravidelný režim a stereotyp. Orientační opory (značení, hodiny, jmenovky). Návštěvy známých lidí (působí podpůrně i v ústavu). U případu 4: léčba hypertenze a prevence dalších CMP (zdravotnictví). Přiměřená aktivizace pro pocit užitečnosti proti apatii a depresi.",
+    "pripad": 4,
+    "obor": "gerontopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.74–76; Jirák/Holmerová ⚠️"
+  },
+  {
+    "front": "Případ 4: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Domov pro seniory / domov se zvláštním režimem, neurolog/geriatr (dg. typu demence, léčba hypertenze, prevence CMP), praktický lékař (sledování TK), Česká alzheimerovská společnost (ČALS), sociální odbor / příspěvek na péči. ⚠️ ověřit aktuálnost.",
+    "pripad": 4,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit"
+  },
+  {
+    "front": "Co je afázie a v čem se liší od vrozené vady řeči?",
+    "back": "Afázie = ZÍSKANÁ ztráta již rozvinuté schopnosti verbálního vyjadřování a/nebo porozumění řeči po poškození mozku (zde po CMP). Vágnerová ji řadí mezi fatické poruchy (poruchy řeči) při poškození mozku. Na rozdíl od vrozené vady řeči u MR jde o ztrátu dříve fungující řeči.",
+    "pripad": 5,
+    "obor": "logopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.7.4, STR.49"
+  },
+  {
+    "front": "Typy afázie (orientačně)?",
+    "back": "Motorická (expresivní, „Brocova\") — vázne tvorba/plynulost řeči, porozumění zachováno. Senzorická (receptivní, „Wernickeova\") — narušeno porozumění, mluví plynně s chybami. Globální (totální) — vázne tvorba i porozumění. Konkrétní typ určuje logoped/neurolog dle lokalizace.",
+    "pripad": 5,
+    "obor": "logopedie",
+    "tema": "typy / klasifikace",
+    "zdroj": "Vágnerová STR.47,49; Neubauer ⚠️"
+  },
+  {
+    "front": "Jak se projevuje stav po poškození mozku (kromě afázie)?",
+    "back": "Poruchy kognice (pozornost = typický znak, paměť, zpracování informací, zpomalení a snížená pružnost myšlení). Emoce: útlum/apatie nebo dráždivost a labilita; úzkost a deprese jako reakce na uvědomovanou ztrátu. Chování: snížená odolnost k zátěži, unavitelnost, ulpívání. Největší zlepšení v prvních 6 měsících.",
+    "pripad": 5,
+    "obor": "somatopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.49–50"
+  },
+  {
+    "front": "Etiologie afázie u případu 5 — bio/psycho/sociál?",
+    "back": "BIO = hlavní: získané poškození mozkové tkáně po CMP (lokalizace v Brocově oblasti postihuje verbální projev). PSYCHO = modifikátor: emoční změna, deprese/úzkost jako reakce na ztrátu. SOCIÁL = modifikátor: získané postižení v dospělosti → nová identita, vliv rodiny. SPIRITUÁL ⚠️ = jen rozměr trpělivosti a péče, ne etiologie.",
+    "pripad": 5,
+    "obor": "somatopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.47–50,53–54"
+  },
+  {
+    "front": "Případ 5: proč se muž vyhýbá komunikaci? (klíčové odlišení)",
+    "back": "Vyhýbání je DŮSLEDEK afázie + psychická reakce (únik z frustrující, namáhavé situace mluvení) — NE neochota nebo nezájem. Pozor odlišit: afázie ≠ demence (afázie postihuje jednu funkci, intelekt může být zachován), afázie ≠ deprese (u afázie selhává sám jazykový aparát, i kdyby chtěl, vázne to).",
+    "pripad": 5,
+    "obor": "logopedie",
+    "tema": "diferenciace / kontext případu",
+    "zdroj": "Vágnerová STR.49,53"
+  },
+  {
+    "front": "Afázie po CMP — čeho se VYVAROVAT?",
+    "back": "Nespěchat a netlačit na rychlou odpověď (zvyšuje napětí a únik). Nepřetěžovat (snížená odolnost, unavitelnost). Nevykládat mlčení jako „neochotu\" či „nezájem\". Nemluvit na člověka jako na nesvéprávného (zachovaný intelekt respektovat). Nevzdat komunikaci úplně (rezignace prohlubuje izolaci).",
+    "pripad": 5,
+    "obor": "logopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.49–50,53"
+  },
+  {
+    "front": "Afázie po CMP — na čem PRACOVAT?",
+    "back": "Logopedická reedukace afázie. AAK (obrázkové karty, komunikační tabulky, gesta) jako most, dokud se řeč obnovuje. Trpělivost a čas, krátké jednoznačné věty, ověřovat porozumění. Včasná soustavná neurorehabilitace (největší zlepšení v prvních 6 měsících). Podpora při depresi/úzkosti. Zapojení rodiny.",
+    "pripad": 5,
+    "obor": "logopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.49–50; Neubauer ⚠️"
+  },
+  {
+    "front": "Případ 5: vrozené × získané a časové okno rehabilitace?",
+    "back": "Afázie po CMP je ZÍSKANÁ ztráta dříve rozvinuté řeči (kontrast s vývojovou vadou u MR). Jako člověk se získaným postižením se stále považuje za součást normální společnosti. Časové okno: největší zlepšení v prvních 6 měsících po poranění → s reedukací nečekat.",
+    "pripad": 5,
+    "obor": "somatopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.50,53–54"
+  },
+  {
+    "front": "Případ 5: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Klinický logoped (reedukace afázie, AAK), neurolog (léčba a prevence recidivy CMP), denní stacionář + fyzioterapie (komplexní rehabilitace), CEREBRUM (po poškození mozku), klinický psycholog (deprese, změna identity), sociální odbor / příspěvek na péči. ⚠️ ověřit aktuálnost.",
+    "pripad": 5,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit"
+  },
+  {
+    "front": "Co je epilepsie (definice dle Vágnerové)?",
+    "back": "Vesměs chronické postižení mozkové tkáně, které se projevuje opakovanými záchvaty různého charakteru, spojenými se změnou v prožívání, chování a často s poruchami vědomí. Z psychologického hlediska je to symptomový komplex (heterogenní skupina) — neexistuje jeden typický osobnostní profil. Opakovanými záchvaty trpí ~0,5 % dospělých.",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.7.3, STR.46"
+  },
+  {
+    "front": "Dělení epileptických záchvatů + malé × velké?",
+    "back": "1) Generalizované — výboj se šíří po celém mozku, VŽDY porucha vědomí + motorická dysfunkce (sem patří grand mal = velký tonicko-klonický i absence/petit mal = „malé\" záchvaty). 2) Parciální (ložiskové) — vznikají v ohraničeném ložisku, porucha vědomí nebývá velká, příznaky dle lokalizace. Malý záchvat = absence/petit mal × velký = grand mal.",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "klasifikace / typy",
+    "zdroj": "Vágnerová STR.46"
+  },
+  {
+    "front": "Jak se epilepsie projevuje (záchvaty + psychika)?",
+    "back": "Opakované záchvaty (zde malé 3–4× týdně, nově grand mal). Po záchvatu únava, ospalost, někdy amnézie. Změny aktivační úrovně (dráždivost/hyperaktivita × útlum/bradypsychismus), zvýšená unavitelnost, nižší tolerance k zátěži, obtíže pozornosti a paměti, ulpívání myšlení. Možná dráždivost, labilita, výbušnost nebo mrzutá nálada.",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.46–47"
+  },
+  {
+    "front": "Etiologie epilepsie — bio/psycho/sociál?",
+    "back": "BIO = hlavní: epileptická aktivita mozku (výboje); vrozená dispozice = základ + zevní vlivy; symptomatická epilepsie = důsledek jiného poškození mozku. Platí: čím dříve vznikla a čím častější záchvaty, tím větší riziko změn. PSYCHO = modifikátor (úzkost, bezmoc, deprese sekundárně). SOCIÁL = stigma. SPIRITUÁL ⚠️ = jen rozměr přijetí, ne etiologie.",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.46–47"
+  },
+  {
+    "front": "Případ 6: co znamená přibývání záchvatů grand mal? (klíč)",
+    "back": "Přibývající grand mal = signál ZHORŠOVÁNÍ → nutná úprava medikace a přehodnocení režimu, ne pasivní čekání (neléčená/nedostatečně kontrolovaná epilepsie se historicky zhoršovala). Vynechání léků podstatně zvyšuje riziko záchvatu a progresi nemoci.",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.46,48"
+  },
+  {
+    "front": "Epilepsie × mentální retardace/demence — častá záměna?",
+    "back": "Nemocní epilepsií mají VĚTŠINOU NORMÁLNÍ inteligenci — výraznější porucha rozumu je výjimka. Epileptická demence (úbytek inteligence) je vzácná, jen u závažné, dlouhotrvající epilepsie. Uzavřenost/deprese bývá SEKUNDÁRNÍ reakcí na nemoc a stigma, ne „povaha epileptika\".",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.47"
+  },
+  {
+    "front": "Epilepsie — čeho se VYVAROVAT v péči?",
+    "back": "Nevynechávat léky (vynechání zvyšuje riziko záchvatu a progresi). Nepřetěžovat (snížená tolerance, unavitelnost; přetížení a spánkový deficit provokují záchvaty). Nepřičítat negativní vlastnosti a vinu (stigma neurotizuje). Nepodporovat izolaci, ale ani nezlehčovat zhoršování (grand mal). Nezaměnit ulpívání za „neochotu\".",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.46–48"
+  },
+  {
+    "front": "Epilepsie — na čem PRACOVAT v péči?",
+    "back": "Spolehlivá medikace + její úprava při zhoršování. Životospráva (pravidelný spánek, vyhýbání spouštěčům) a bezpečné prostředí (riziko úrazu při grand mal). Přiměřená zátěž s ohledem na unavitelnost. Psychická podpora (úzkost ze záchvatu, prevence deprese, destigmatizace). Edukace okolí (první pomoc při záchvatu).",
+    "pripad": 6,
+    "obor": "somatopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.46–48; Pipeková ⚠️"
+  },
+  {
+    "front": "Případ 6: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Neurolog / epileptolog (dg., nastavení a úprava antiepileptické medikace), Společnost „E\" / EpiStop (osvěta, destigmatizace), klinický psycholog (úzkost, deprese), praktický lékař, sociální odbor / zaměstnavatel (úprava podmínek, bezpečnost). ⚠️ ověřit aktuálnost.",
+    "pripad": 6,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit"
+  },
+  {
+    "front": "Jaký je nejzávažnější handicap sluchového postižení a klíčová hranice?",
+    "back": "Nejzávažnějším sekundárním handicapem je KOMUNIKAČNÍ BARIÉRA (porucha rozvoje mluvené řeči — porozumění i aktivní projev). Hranice přijatelné sluchové funkce nezbytné pro osvojení mluvené řeči je v pásmu STŘEDNĚ TĚŽKÉ NEDOSLÝCHAVOSTI (60–70 dB). Sluchové postižení vede k podnětové deprivaci.",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.8.5, STR.67"
+  },
+  {
+    "front": "Jaké dva jazykové systémy mohou sluchově postižení užívat?",
+    "back": "1) Znakový jazyk — využívá zrakové vnímání, má vlastní gramatiku (jiný slovosled, neskloňuje), výhodný hlavně pro prelingválně postižené, ale činí z nich minoritu. 2) Artikulovaná (orální) řeč — využívá zbytky sluchu a odezírání; výuka je velmi obtížná. Důležité: prelingvální (před osvojením řeči) × postlingvální (po něm) vada.",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "klasifikace / komunikace",
+    "zdroj": "Vágnerová STR.67–68"
+  },
+  {
+    "front": "Jak se sluchové postižení projevuje v řeči a poznávání?",
+    "back": "Omezená slovní zásoba, nepřesné používání a záměny slov, hlavně potíže s významem slov v kontextu. Gramatika: nesprávné tvary, nedodržení slovosledu, zjednodušený projev. Čtení/psaní: mechanické čtení bez pochopení smyslu. Myšlení vázané na konkrétní realitu (obtížná abstrakce). Nutná zvýšená koncentrace → únava.",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.68–69"
+  },
+  {
+    "front": "Etiologie u případu 7 — bio/psycho/sociál?",
+    "back": "BIO = hlavní: porucha sluchového analyzátoru → podnětová deprivace, omezený přísun řečových podnětů → chudá slovní zásoba. PSYCHO = modifikátor: komunikace je trvalý stres (zvýšená koncentrace, nejistota) → úzkost, zkratkovité reakce. SOCIÁL = modifikátor: nepříznivé reakce okolí, izolace. SPIRITUÁL ⚠️ = respekt k odlišné komunikaci, ne etiologie.",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.67–69"
+  },
+  {
+    "front": "Případ 7: NEJDŮLEŽITĚJŠÍ odlišení — chudá slovní zásoba?",
+    "back": "Chudá slovní zásoba a neznalost pojmů jsou DŮSLEDKEM sluchové vady (vázne přísun a kontrola řeči), NE projevem mentální retardace! Intelekt je v normě. U MR je postižena celá kognice; zde je problém jen přístup k jazyku. Také odlišit od vývojové dysfázie (porucha řeči při zachovaném sluchu).",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "diferenciace / kontext případu",
+    "zdroj": "Vágnerová STR.67–68"
+  },
+  {
+    "front": "Surdopedie — čeho se VYVAROVAT?",
+    "back": "Nezaměňovat chudou slovní zásobu za sníženou inteligenci (nesnižovat nároky „jako u MR\"). Nemluvit zády/rychle/bez zrakového kontaktu (znemožní odezírání). Nespěchat a neopakovat stejnými dlouhými větami (radši přeformulovat krátce). Nevykládat impulzivní reakce jako „drzost\" (je to nezvládnutá zátěž). Nenechat dítě izolované bez podpory.",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.67–69"
+  },
+  {
+    "front": "Surdopedie — na čem PRACOVAT?",
+    "back": "Cílený rozvoj slovní zásoby a významů slov (vč. významu v kontextu). Vizuální komunikace — zrakový kontakt, odezírání, podpora obrázky/textem, dle potřeby znakový jazyk. Pravidla pro slyšící: pomalá zřetelná artikulace, čelem k dítěti, krátké jednoznačné věty, ověřovat porozumění. Sluchadla / kochleární implantát. Asistentka + IVP se SPC.",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.68; Horáková ⚠️"
+  },
+  {
+    "front": "Případ 7: jak číst impulzivní reakce a roli komunikace?",
+    "back": "Pro sluchově postiženého je i běžná komunikace STRESEM (nutnost zvýšené koncentrace, nejistota v porozumění). Napětí zvyšuje úzkost a sklon k afektivním/zkratkovým reakcím — výraz nezvládnuté zátěžové situace, ne „zlobení\". Mimika a pantomimika jsou pro něj důležitým komunikačním kanálem.",
+    "pripad": 7,
+    "obor": "surdopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.68–69"
+  },
+  {
+    "front": "Případ 7: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "SPC pro sluchově postižené (už v péči — dg., IVP, asistent pedagoga), foniatr/audiolog (sluchadla, kochleární implantát), klinický logoped/surdoped (rozvoj řeči), Centrum pro dětský sluch Tamtam (raná péče, poradenství), Česká unie neslyšících / SNN ČR (komunita, znakový jazyk). ⚠️ ověřit aktuálnost.",
+    "pripad": 7,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit"
+  },
+  {
+    "front": "Co je dětská mozková obrna (DMO) a jaká je její hlavní příčina?",
+    "back": "VROZENÉ (resp. raně získané) postižení s hlavním příznakem poruchy MOTORIKY — postižení volních pohybů. Příčinou je prenatální, perinatální nebo postnatální poškození CNS, které se projeví do 5. roku života (např. asfyxie). Postihuje 0,1–2 % dětí. Bývá často kombinována s dalšími poruchami (zrak, sluch, řeč, intelekt, epilepsie).",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.7.1, STR.41"
+  },
+  {
+    "front": "Formy DMO a co je kvadruparéza?",
+    "back": "Spastická/hypertonická (70 %, zvýšené napětí) · hypotonická (přechodná) · atetoidní/dyskinetická (~20 %, mimovolní kroutivé pohyby) · mozečková (~10 %, porucha koordinace). Kvadruparéza/kvadruplegie = postižení VŠECH ČTYŘ končetin; bývá postižena i hybnost mluvidel (→ dysartrie) a častěji kombinována s poruchou inteligence.",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "formy",
+    "zdroj": "Vágnerová STR.41"
+  },
+  {
+    "front": "Jak se DMO projevuje (motorika, řeč, emoce)?",
+    "back": "Motorika: postižení volních pohybů, u kvadruparézy všechny končetiny → vozík. Řeč: dysartrie (postižení mluvidel). Pozornost ulpívavá, nevýběrová, snadná unavitelnost. Emoce se promítají do motoriky (ztuhnutí, více záškubů), bývají infantilnější, labilnější. Inteligence porušena ve 30–50 % — ale NE vždy.",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.41–43"
+  },
+  {
+    "front": "DMO jako VROZENÉ postižení — co z toho plyne (× získané)?",
+    "back": "Vrozené postižení ovlivňuje VÍCE celý vývoj jedince, ALE subjektivně není tak traumatizující — dítě je na omezení zvyklé od dětství, neumí si představit život bez něj. Naproti tomu později získané postižení (úraz, případ 14) = větší psychické trauma, protože člověk ví, co ztratil.",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "etiologie – vrozené × získané",
+    "zdroj": "Vágnerová STR.57"
+  },
+  {
+    "front": "Případ 8: proč je chybou hodnotit dívku s DMO jako mentálně retardovanou?",
+    "back": "TĚLESNÉ POSTIŽENÍ ≠ SNÍŽENÝ INTELEKT. Nápadný vzhled, vozík a dysartrie (těžko srozumitelná řeč) budí u laiků dojem mentálního defektu, přestože inteligence u DMO nemusí být poškozena (často není, někdy je i nadprůměrná). Pohybově postižení mohou při zachovaném intelektu dosahovat dobrých studijních výsledků.",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.42–43, 70"
+  },
+  {
+    "front": "Terapie DMO (případ 8) — čeho se VYVAROVAT?",
+    "back": "Nepodceňovat intelekt kvůli vzhledu/dysartrii. Nepodporovat hyperprotektivitu a vynucenou nesamostatnost (udržuje pasivitu a závislost). Nepřetěžovat tak, že napětí zvyšuje spasticitu a mimovolní záškuby. Neizolovat. Nezužovat výchovu jen na zdraví a školní úspěch (chyba „Dáši“ u Vágnerové).",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.42, 70"
+  },
+  {
+    "front": "Terapie DMO (případ 8) — na čem PRACOVAT?",
+    "back": "Soběstačnost a lokomoce (kompenzační pomůcky, elektrický vozík, nácvik sebeobsluhy — samostatnost = pokrok i v poznávání). Logopedie na dysartrii, příp. AAK. Vzdělávání přiměřené intelektu. Podpora tělesného sebepojetí a identity v adolescenci. Práce s rodinou — vyvážit péči a osamostatňování.",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.41–42, 70"
+  },
+  {
+    "front": "Případ 8: jak vyložit elektrický vozík a rodinnou situaci (matka + otčím, otec telefonicky)?",
+    "back": "Elektrický vozík = kompenzace lokomoce u spastické kvadruparézy → osvobozuje z vazby na prostor a snižuje závislost na druhých. Klíčová je soběstačnost (lokomoce + sebeobsluha). Rodina je zdrojem citového zázemí v adolescenci; podporovat i kontakt s biologickým otcem a vyvažovat péči s osamostatňováním.",
+    "pripad": 8,
+    "obor": "somatopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.42, 70"
+  },
+  {
+    "front": "Případ 8: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "SPC pro tělesné postižení (IVP, asistent pedagoga). Fyzioterapeut/ergoterapeut (rehabilitace, polohování, pomůcky). Klinický logoped (dysartrie, AAK). CEREBRUM, Liga vozíčkářů (poradenství, pomůcky). Sociální odbor / příspěvek na péči (dávky, financování vozíku).",
+    "pripad": 8,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je Downův syndrom a jaký stupeň MR způsobuje?",
+    "back": "Nejčastější MR z chromozomální odchylky = TRIZOMIE 21. chromozomu (změna počtu chromozomů). Typický habitus (na první pohled tělesně odlišní). Mentální defekt bývá rovnoměrnější, na HRANICI LEHČÍHO AŽ STŘEDNĚ TĚŽKÉHO stupně. Down = etiologie, ne samostatný kód MKN.",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová STR.79, 11"
+  },
+  {
+    "front": "Downův syndrom — typický habitus a somatické znaky?",
+    "back": "Epikantus (zešikmení očních štěrbin), malý knoflíkovitý nos, velký jazyk, krátké ruce a nohy. Časté bývají vrozené srdeční vady → nutná pediatrická/kardiologická péče (ovlivňuje i učení a řeč).",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "somatika / habitus",
+    "zdroj": "Vágnerová STR.11"
+  },
+  {
+    "front": "Jaké jsou typické psychické a behaviorální projevy u Downova syndromu?",
+    "back": "Klidní až bradypsychičtí (zpomalené tempo), těžkopádní a ulpívaví, ALE emocionálně dobře ladění a přizpůsobiví, bez větších výkyvů v chování. Učí se sice pomalu, ale dovedou své schopnosti využít. V dospělosti pracují pod dohledem a vedením.",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.79"
+  },
+  {
+    "front": "Downův syndrom — odkud bere dítě geny, jsou rodiče postižení?",
+    "back": "Většina dětí s Downovým syndromem má ZDRAVÉ rodiče — nejde o klasickou rodinnou dědičnost, ale o chromozomální aberaci (nadbytečný 21. chromozom) u dítěte. Rodinné prostředí proto bývá dostatečně, občas až nadměrně stimulující.",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.79, 78"
+  },
+  {
+    "front": "Downův syndrom × demence × pseudooligofrenie — jak odlišit?",
+    "back": "Down/MR = VROZENÁ (trizomie 21), CNS narušena, rozvoj pomalý ale využitelný. Demence = ZÍSKANÝ úbytek dříve normálního rozumu (zhoršuje se). Pseudooligofrenie = ze zanedbanosti, CNS bez narušení, zlepšitelná v lepším prostředí (NENÍ MR).",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.77, 78"
+  },
+  {
+    "front": "Down (případ 9) — čeho se ve škole VYVAROVAT?",
+    "back": "Nepřetěžovat (nesrozumitelné nároky = stres → obranné reakce). Nevyžadovat samostatnou práci bez dohledu — dítě ji nezvládne; respektovat zpomalené tempo. Nepoužívat ironii/metafory/složité instrukce. Nepřeceňovat dítě jen kvůli příznivému temperamentu. Nezanedbat somatiku (srdce, sluch, zrak).",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.79, 80, 11"
+  },
+  {
+    "front": "Down (případ 9) — na čem ve škole PRACOVAT?",
+    "back": "Klidné, stabilní, srozumitelné prostředí + stereotyp a režim. Stálý dohled a vedení, krátké jasné kroky, IVP/asistent. Citová jistota (vztah s pečující osobou = motivace). Trpělivý nácvik dovedností (schopnosti dovede využít). Pozitivní hodnocení/pochvala. Logopedie + AAK na vývoj řeči.",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.79, 81, 82–83"
+  },
+  {
+    "front": "Případ 9: jak vyložit „opožděný vývoj řeči\" a „nepracuje samostatně, potřebuje stálý dohled\"?",
+    "back": "Opožděný vývoj řeči = řeč postižena povahou MR (agramatismy, krátké věty, chudá slovní zásoba) i tělesně (velký jazyk, koordinace mluvidel) → logopedie + AAK. „Stálý dohled\" odpovídá tomu, že lidé s Downem pracují pod dohledem a vedením — není to trest, samostatnost se rozvíjí postupně.",
+    "pripad": 9,
+    "obor": "psychopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.79, 80"
+  },
+  {
+    "front": "Případ 9: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "SPC (diagnostika, IVP), ZŠ speciální, klinický logoped (vývoj řeči + AAK), pediatr/genetika/kardiologie (trizomie, srdeční vady), SPMP ČR (podpora rodin), sociální odbor (příspěvek na péči).",
+    "pripad": 9,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co jsou poruchy příjmu potravy (PPP) a s čím jsou spojeny?",
+    "back": "Porucha POSTOJE (rozumového i emočního vztahu) k jídlu a z toho vyplývající odchylka v chování. Bývají spojeny i s poruchou postoje k vlastnímu tělu — deformací TĚLOVÉHO SCHÉMATU (proporcí, hmotnosti). Postižení jsou nápadně koncentrováni na tělo (negativní vztah) i na jídlo (vztah až obsedantně-kompulzivní).",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.16, STR.120–121"
+  },
+  {
+    "front": "Co je tělové schéma a jak je u PPP narušené?",
+    "back": "Tělové schéma = představa o vlastním těle; není jen mentálním obrazem, ale zahrnuje i HODNOTÍCÍ složku a postoj. Tělo se může jevit jinak, než jaké skutečně je (subjektivní zkreslení). U PPP je vnímání narušené — dívky jsou bez ohledu na vyhublost přesvědčené, že jsou „tlusté\". Jádro poruchy je postoj k tělu, ne porucha vnímání obecně.",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "klíčový pojem",
+    "zdroj": "Vágnerová STR.120, 122"
+  },
+  {
+    "front": "Mentální anorexie (F50.0) × mentální bulimie (F50.2) — jádrové odlišení?",
+    "back": "ANOREXIE: patologický strach ze ztloustnutí + ODMÍTÁNÍ potravy, úbytek o 15 % proti normě, silná vůle/perfekcionismus (zvládne hladovět), riziko ŽIVOT OHROŽUJÍCÍ (~5 % umírá). BULIMIE: neodolatelná touha → záchvaty PŘEJÍDÁNÍ, váha blízká normě, IMPULZIVITA a ztráta kontroly → zvracení/projímadla, pak vina a stud. Mohou se prolínat (30–50 % anorektiček má i záchvaty přejídání).",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "klasifikace / diferenciace",
+    "zdroj": "Vágnerová STR.122, 124"
+  },
+  {
+    "front": "Jaké jsou příčiny PPP a která osa je primární?",
+    "back": "Multifaktoriální — interakce DISPOZICE se zátěžovými vlivy. Na rozdíl od ADHD (případ 3) NEJSOU primární biologické příčiny. BIO = jen dispozice (genetika, hormonální změny dospívání). PRIMÁRNÍ jsou PSYCHO (perfekcionismus, nízké sebevědomí, asketický obranný mechanismus, vyhnutí ženské roli) a SOCIÁL (sociokulturní ideál štíhlosti, rodina zaměřená na výkon, vztah s matkou).",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.121, 123–124"
+  },
+  {
+    "front": "Jsou PPP vrozené, nebo získané, a kdy je rizikové období?",
+    "back": "PPP NEJSOU vrozená porucha — jde o ZÍSKANOU psychickou poruchu na podkladě dispozice + psychosociální zátěže. Rizikové období je DOSPÍVÁNÍ (emancipace od rodiny, přijetí ženské role). Vyvolávajícím podnětem je zátěž, s níž se dospívající nedokáže vyrovnat (změna školy, vztahy). Sedí na případ: dívka 19 let, problémy ve studiu i v soukromí.",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.124"
+  },
+  {
+    "front": "Jak se PPP projevuje (vztah k tělu, jídlu, somatika)?",
+    "back": "Vztah k TĚLU: nevyvratitelné „jsem tlustá\" i při vyhublosti, tělo jako cizí objekt na obtíž. Vztah k JÍDLU: obsedantně-kompulzivní rituály (počítání kalorií, skrývání potravy). Anorexie: hladovění jako „úkol\", nadměrné cvičení, LHANÍ a popírání potíží. Bulimie: tajné záchvaty + zvracení, pocity viny a studu. SOMATIKA: ztráta menstruace, snížená imunita, v krajním případě ohrožení života.",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.121–125"
+  },
+  {
+    "front": "Případ 10: jak vyložit roli matky, která „příliš nekomunikuje\"?",
+    "back": "Rizikový RODINNÝ činitel, ne okrajový detail. Vágnerová uvádí přímo případ „Šárka (14 let)\" — anorexie + problematický vztah s matkou, která zdůrazňuje obtížnost ženské role. Rodina zaměřená na výkon, rigidní vztahy a dysfunkční komunikace patří mezi primární sociální příčiny. Vztah s matkou (konflikt nezávislost × opora) je terčem rodinné terapie.",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.123, 124"
+  },
+  {
+    "front": "PPP (případ 10) — čeho se VYVAROVAT?",
+    "back": "NEBAGATELIZOVAT („je to hloupost/móda\") — je to nemoc. NEAPELOVAT jen na rozum a vůli (nepomáhá, plodí konflikty). Násilné krmení a zavrhování zhoršují rodinné klima. NECHVÁLIT hubnutí ani „pevnou vůli\" — schválení funguje jako posilující impulz poruchy. Nepodceňovat SOMATICKÉ riziko (může ohrozit život).",
+    "pripad": 10,
+    "obor": "psychologie/psychiatrie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.123, 126"
+  },
+  {
+    "front": "PPP (případ 10) — na čem PRACOVAT a koho zapojit (ČR)?",
+    "back": "Vedoucí: lékařská péče (psychiatrie + interna, somatická stabilizace, případně hospitalizace I PROTI VŮLI při ohrožení života) + psychoterapie (tělové schéma, sebehodnocení) + RODINNÁ terapie (komunikace s matkou) + nutriční obnova + podpora identity mimo „úkol štíhlosti\". Propojit: psychiatr ⚠️, psychoterapeut, nutriční terapeut ⚠️, Centrum Anabell ⚠️, internista, školní poradenství/PPP ⚠️.",
+    "pripad": 10,
+    "obor": "organizace",
+    "tema": "terapie – pracovat na / propojení",
+    "zdroj": "Vágnerová STR.124, 126; Krch/Papežová ⚠️; bibliografie.md ⚠️"
+  },
+  {
+    "front": "Co je porucha chování a jaké jsou její tři znaky?",
+    "back": "Odchylka v oblasti SOCIALIZACE — jedinec není schopen respektovat normy chování na úrovni odpovídající jeho věku, event. svým rozumovým schopnostem. Znaky (dle DSM-IV): 1) chování NERESPEKTUJE sociální normy; 2) jedinec normy CHÁPE, ale neakceptuje je / nedokáže se jimi řídit; 3) typická je AGRESIVITA a NEPOCIŤUJE vinu (nerozvinuté svědomí).",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.20, STR.149–150"
+  },
+  {
+    "front": "KLÍČOVÉ vymezení: kdo NEMÁ poruchu chování?",
+    "back": "O poruchu chování se NEJEDNÁ, pokud jedinec NENÍ SCHOPEN pochopit význam hodnot a norem — tj. mentálně retardovaní (případ 22) nebo lidé z jiného sociokulturního prostředí. Poruchu chování má jen ten, kdo normy CHÁPE, ale neakceptuje je nebo se jimi nedokáže řídit (jiná hodnotová hierarchie, jiné motivy, neschopnost ovládat chování).",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.149–150"
+  },
+  {
+    "front": "Jak se dělí poruchy chování v dětském věku?",
+    "back": "1) NEAGRESIVNÍ porušování sociálních norem — lži, útěky, toulání (mírnější). 2) AGRESIVNÍ poruchy chování — šikana, vandalismus, přepadávání (závažnější, protože porušují práva ostatních). Mezi typy není přesná hranice, mohou se kombinovat. O poruchách chování mluvíme obyčejně až ve STŘEDNÍM ŠKOLNÍM věku.",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "klasifikace",
+    "zdroj": "Vágnerová STR.153"
+  },
+  {
+    "front": "Případ 11: jak vyložit fyzické tresty od nevlastního otce (vztah k chování)?",
+    "back": "Jde o syndrom TÝRANÉHO dítěte (CAN). KLÍČOVÉ: nevhodné chování dítěte je spíše DŮSLEDKEM týrání, NE jeho příčinou. Tělesné tresty a týrání jsou v anamnézách dětí s poruchami chování VELMI ČASTÉ. Riziko ohrožení je zvýšené v rodinách s narušenými vztahy (kritika, odmítání), kde se napětí řeší agresí — sedí na rozvod + nevlastní otec.",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.150, 181"
+  },
+  {
+    "front": "Co je identifikace s agresorem a role „špatného dítěte\"?",
+    "back": "Obranné mechanismy týraného dítěte. IDENTIFIKACE S AGRESOREM: dítě se začne chovat jako trýznitel (agresivně k ostatním, vyvolává konflikty) — přijetím role násilníka se zbaví pocitů bezmoci a strachu. ROLE „ŠPATNÉHO DÍTĚTE\": dítě přijme, že je trestáno oprávněně (negativní sebehodnocení), protože tak si přijatelně vysvětlí chování rodičů a uchrání iluzi rodinného zázemí.",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "klíčový pojem",
+    "zdroj": "Vágnerová STR.182"
+  },
+  {
+    "front": "Jak se týrání projevuje ve škole a ve vztazích (případ 11)?",
+    "back": "Nerespektování autority učitele (normy chápe, neakceptuje), agresivní a destruktivní tendence (identifikace s agresorem), NÍZKÁ FRUSTRAČNÍ TOLERANCE a afektivní výbuchy. GENERALIZOVANÁ nedůvěra — očekává ublížení i od neutrálních osob (učitel), špatně čte projevy lidí. Horší prospěch, než odpovídá schopnostem (chybí motivace a sebedůvěra). Vágnerová: případ Jirky a Pepíka.",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.182–183"
+  },
+  {
+    "front": "KLÍČOVÉ ODLIŠENÍ: porucha chování (11) × ADHD (3) × MR (22) × „nevychovanost\"?",
+    "back": "PORUCHA CHOVÁNÍ: normy CHÁPE, ale neakceptuje/neřídí se (postoj, hodnoty). ADHD: porucha funkce CNS — chování NEDOKÁŽE ovládat, není to vzdor. MR: NECHÁPE význam norem (IQ < 70) → není to porucha chování. „NEVYCHOVANOST\": laický pojem, neodborné — nezohledňuje týrání jako příčinu.",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.149–150; kap.7.2 STR.44"
+  },
+  {
+    "front": "Porucha chování na pozadí týrání (případ 11) — čeho se VYVAROVAT?",
+    "back": "NEVYKLÁDAT chování jako „nevychovanost/zlobení\" — je to důsledek týrání. NEPOUŽÍVAT fyzické tresty ani tvrdou disciplínu (posilují agresi a model násilí). NEPŘEHLÍŽET týrání (ohlašovací povinnost) — jinak řešíme jen příznak. Nepotvrzovat negativní sebepojetí (kritika, ponižování). Neočekávat rychlou nápravu jen kázní — je třeba vztah a bezpečí.",
+    "pripad": 11,
+    "obor": "etopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.150, 182–183"
+  },
+  {
+    "front": "Porucha chování na pozadí týrání (případ 11) — na čem PRACOVAT a koho zapojit (ČR)?",
+    "back": "POŘADÍ: 1) zajistit BEZPEČÍ a ukončit týrání → 2) obnova základní DŮVĚRY a citového přijetí (kompenzační vztah k dospělému) → 3) zpracování traumatu (hra, kresba) → 4) nácvik zvládání afektů + jasná pravidla → 5) posílení sebehodnocení (proti roli „špatného dítěte\"). Propojit: OSPOD ⚠️, SVP ⚠️, PPP ⚠️, dětský psycholog/psychoterapeut, Dětské krizové centrum ⚠️, Linka bezpečí ⚠️.",
+    "pripad": 11,
+    "obor": "organizace",
+    "tema": "terapie – pracovat na / propojení",
+    "zdroj": "Vágnerová STR.182–183; Pipeková ⚠️; bibliografie.md ⚠️"
+  },
+  {
+    "front": "Případ 12: co je kombinované (vícečetné) postižení a z čeho se zde skládá?",
+    "back": "Kombinované postižení = souběh dvou a více postižení u jednoho člověka, vyžaduje koordinaci více oborů. Zde: DMO kvadruparéza (somatopedie) + dysartrie (logopedie) + strabismus/šilhání (oftalmopedie) + epilepsie (neurologie) + autistické projevy (psychopedie). Vágnerová: DMO bývá velmi často KOMBINOVANÁ s poruchami zraku, sluchu, řeči, rozumu a epileptickými záchvaty.",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová STR.41; Vítková ⚠️"
+  },
+  {
+    "front": "Případ 12: jaká je DMO forma a co z ní plyne?",
+    "back": "Spastická (hypertonická) forma — KVADRUPARÉZA = postižení všech čtyř končetin (nejtěžší obraz, 70 % případů). U kvadruplegie bývá postižena i hybnost mluvidel → DYSARTRIE; častěji se kombinuje s poruchou inteligence. Spasticita = postižení centrálního motoneuronu.",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "formy / typ",
+    "zdroj": "Vágnerová STR.41"
+  },
+  {
+    "front": "Případ 12 (KLÍČOVÉ): proč je tento případ hlavně o KOORDINACI oborů?",
+    "back": "Jeden žák potřebuje současně somatopedii (DMO, vedoucí obor), logopedii (dysartrie), oftalmopedii (strabismus), neurologii (epilepsie) a psychopedii/psychologii (vývoj, autistické projevy). Klíčem NENÍ paralelní izolovaná péče, ale KOORDINACE týmu kolem jednoho společného plánu s vedoucím oborem somatopedie.",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "diferenciace (jádro případu)",
+    "zdroj": "Vágnerová STR.41"
+  },
+  {
+    "front": "Jak se případ 12 projevuje (hlavní symptomy napříč složkami)?",
+    "back": "Motorika: spastická kvadruparéza, závislost na okolí. Řeč: dysartrie (neobratná mluvidla, těžko srozumitelná řeč). Zrak: strabismus, porucha zrakového nervu/dysgnózie. Epilepsie: záchvaty s poruchou vědomí, poté únava/ospalost/amnézie. Pozornost a paměť oslabené (organické postižení). Citový prožitek se promítá do motoriky (ztuhnutí, záškuby).",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.41–42, 46–47"
+  },
+  {
+    "front": "Případ 12: mají všechny složky společnou příčinu (BPSS)?",
+    "back": "ANO — BIO je hlavní a SPOLEČNÁ příčina: poškození CNS (prenatální/perinatální/postnatální do 5 let, např. asfyxie). Z téhož základu plyne motorika (kvadruparéza), mluvidla (dysartrie), zrakový nerv (strabismus) i častější epileptické záchvaty. Psychika a sociální prostředí jsou jen modifikátory, ne příčina.",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "etiologie (BPSS)",
+    "zdroj": "Vágnerová STR.41"
+  },
+  {
+    "front": "Případ 12: jak odlišit „autistické projevy“ od primární PAS a tělesné od mentálního?",
+    "back": "Autistické projevy u DMO mohou plynout z dysartrie, izolace a poškození CNS — NE automaticky diagnóza PAS (odlišit od případů 2, 16, 18, 21). Tělesné ≠ mentální: záškuby a nesrozumitelná řeč budí dojem mentálního defektu, ač inteligence u DMO i epilepsie NEBÝVÁ poškozena (epileptici mají většinou normální inteligenci).",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "diferenciace (PAS, tělesné × mentální)",
+    "zdroj": "Vágnerová STR.41–43, 47"
+  },
+  {
+    "front": "VROZENÉ × získané u případu 12?",
+    "back": "Celé kombinované postižení je VROZENÉ (raně získané) — chlapec je na ně zvyklý od dětství, neformuje ho náhlá ztráta jako úraz (kontrast případ 14 paraplegie = získané, větší psychické trauma). Vrozené postižení zato silně ovlivňuje celý vývoj.",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "etiologie – vrozené × získané",
+    "zdroj": "Vágnerová STR.57"
+  },
+  {
+    "front": "Terapie (případ 12) — čeho se VYVAROVAT a na čem PRACOVAT?",
+    "back": "VYVAROVAT: nepodcenit intelekt (dysartrie/záškuby ≠ mentální defekt); neoznačit unáhleně autistické projevy jako PAS; neřešit obory izolovaně; nevysazovat léky na epilepsii a nestigmatizovat; nezaměňovat útlum po záchvatu za lenost. PRACOVAT: koordinace týmu, AAK (alternativní komunikace), podpora samostatnosti, bezpečné prostředí pro epilepsii, strukturovaná speciální ZŠ.",
+    "pripad": 12,
+    "obor": "somatopedie",
+    "tema": "terapie – vyvarovat / pracovat",
+    "zdroj": "Vágnerová STR.41–43, 46–47"
+  },
+  {
+    "front": "Případ 12: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "SPC pro tělesné postižení (koordinace vzdělávání). Soukromá speciální ZŠ (už navštěvuje) — individuální plán, pomůcky. Klinický logoped (dysartrie, AAK). Neurolog / epileptologická poradna (epilepsie). Oftalmolog a ortoptista (strabismus). Fyzioterapie, ergoterapie, psycholog (mobilita, soběstačnost, dif. dg. autistických projevů).",
+    "pripad": 12,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co způsobuje těžké zrakové postižení a jak se kompenzuje?",
+    "back": "Vytváří situaci SENZORICKÉ DEPRIVACE — postižený nemůže přesně vnímat zrakové podněty. Chybějící zrakové informace musí nahrazovat jinak: KOMPENZACÍ ostatními smysly (sluch, hmat) a řečí. Pozor: lepší sluch/hmat NENÍ vrozené zvýhodnění — je to výsledek učení a zvýšené potřeby smysl užívat (hmat je nutné cvičit).",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.8.4, STR.65–66"
+  },
+  {
+    "front": "Které funkce zraku rozlišujeme a jak ovlivňují život?",
+    "back": "Zraková ostrost (na dálku = orientace; na blízko = práce, čtení, sebeobsluha). Citlivost na osvětlení (mýtus „víc světla pomáhá\" — někteří mají světloplachost). Zorné pole (výpadky mění orientaci i pohled „do očí\"). Barvocit (méně omezující). Praktická slepota = jen velmi malé, prakticky nevyužitelné zbytky zraku.",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "klasifikace / funkce zraku",
+    "zdroj": "Vágnerová STR.65; Květoňová-Švecová ⚠️"
+  },
+  {
+    "front": "Jak zrakové postižení ovlivňuje poznávání a socializaci?",
+    "back": "Lépe rozvinutý sluch, hmat a paměť (kompenzace). Rozvoj myšlení více spojen s řečí (kompenzační význam řeči); verbální inteligence NENÍ na zraku přímo závislá. Riziko verbalismu (pojmy bez reálného obsahu). Komunikace: chybí vizuální kontakt a čtení neverbálních signálů. Obtíže v orientaci → závislost a tendence k izolaci ve známém prostředí.",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.66"
+  },
+  {
+    "front": "Etiologie u případu 13 — bio/psycho/sociál + dědičnost?",
+    "back": "BIO = hlavní: poškození zrakového analyzátoru → senzorická deprivace. Možná dědičná dispozice (rodiče mají také zrakovou vadu, sestra ne → variabilita). PSYCHO = modifikátor (klíč): tendence k izolaci jako důsledek obtíží + obranný postojový stereotyp „nepřijímají mě\". SOCIÁL = ztížený kontakt (chybí zrakový kanál). SPIRITUÁL ⚠️ = rozměr přijetí, ne etiologie.",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.53,65–66"
+  },
+  {
+    "front": "Případ 13: NEJDŮLEŽITĚJŠÍ odlišení — proč se vyhýbá kontaktu?",
+    "back": "„Domnívá se, že ji společnost nepřijímá, a tak se vyhýbá\" = PSYCHOLOGICKÝ DŮSLEDEK zrakové vady (obranný postojový stereotyp), NE primární porucha osobnosti ani sociální fobie. Paradox: zraková vada je společensky NEJMÉNĚ ODMÍTANÉ postižení → reálný prostor pro začlenění, který stereotyp vyvrací. Intelekt v normě (VŠ studentka).",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "diferenciace / kontext případu",
+    "zdroj": "Vágnerová STR.53,66–67"
+  },
+  {
+    "front": "Tyflopedie — čeho se VYVAROVAT?",
+    "back": "Nevykládat stažení jako poruchu osobnosti ani „nezájem\" (je to důsledek vady a obranný postoj). Nepodceňovat intelekt (je VŠ studentka, verbální inteligence nezávisí na zraku). Nepřebírat veškerou aktivitu / „nechat se vodit\" (posiluje závislost). Nespoléhat jen na slova bez obsahu (verbalismus). Nepřeceňovat „silnější světlo\" (světloplachost).",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.53,65–66"
+  },
+  {
+    "front": "Tyflopedie — na čem PRACOVAT?",
+    "back": "Prostorová orientace a samostatný pohyb (hůl, trénink tras) → méně závislosti. Kompenzace — rozvoj hmatu a sluchu, Braillovo písmo, kompenzační pomůcky. Nácvik sociálních dovedností a komunikace s vidícími. Práce s postojovým stereotypem „nepřijímají mě\". Studijní podpora na VŠ (přístupné materiály, asistence).",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.53–54,66; Květoňová-Švecová ⚠️"
+  },
+  {
+    "front": "Případ 13: jak vyložit roli rodiny a sestry bez vady?",
+    "back": "Rodiče mají také zrakovou vadu → možná dědičná/vrozená dispozice u některých zrakových vad; mladší sestra bez vady ukazuje variabilitu. Rodina se zkušeností se zrakovým postižením může být oporou. Vrozeně postižený je od počátku veden odlišně a chybí mu srovnání zdraví × nemoc, což ovlivňuje sebepojetí a očekávání vůči okolí.",
+    "pripad": 13,
+    "obor": "tyflopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.54"
+  },
+  {
+    "front": "Případ 13: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Tyfloservis (nácvik prostorové orientace, sebeobsluhy), SONS ČR (poradenství, hájení zájmů), TyfloCentrum (sociální služby, pomůcky), středisko podpory studentů se SP na VŠ (přístupné materiály, asistence), klinický psycholog (sociální dovednosti, práce se stažením). ⚠️ ověřit aktuálnost.",
+    "pripad": 13,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit"
+  },
+  {
+    "front": "Co je paraplegie a jaký je v tomto případě typ postižení?",
+    "back": "Paraplegie = úplné ochrnutí dolní poloviny těla (obou dolních končetin), nejčastěji po poškození míchy (úraz páteře). V tomto případě ZÍSKANÉ (poúrazové) tělesné postižení — člověk se nejprve vyvíjel normálně a náhle o část funkcí přišel.",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.8.6, STR.70; Pipeková ⚠️"
+  },
+  {
+    "front": "Jaké jsou fáze adaptace na náhle získané postižení?",
+    "back": "1) Fáze latence / nedostatečné informovanosti — myslí si, že jde o přechodný problém, cílem je úplné uzdravení. 2) Fáze pochopení traumatizující reality — pochopí trvalost → ŠOK, popření, odmítání kontaktu, smlouvání, čekání na zázrak. 3) Fáze postupné adaptace — učí se kompenzačním způsobům, připustí trvalou změnu, hledá nový smysl a hierarchii hodnot.",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "fáze adaptace",
+    "zdroj": "Vágnerová STR.61–62"
+  },
+  {
+    "front": "Případ 14 (KLÍČOVÉ): jak vyložit slovní agresi a obviňování rodiny a personálu?",
+    "back": "Je to FÁZE vyrovnávání se ztrátou, NE charakterová vada ani porucha osobnosti! Vnitřní napětí, pocit hořkosti a nespravedlnosti vlastního osudu vede ke změnám chování ke zdravým: jsou obviňováni za svůj lepší osud, poslouchají výčitky, stesky a výlevy depresí. S podporou tato fáze odezní a přijde nadhled.",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "diferenciace (fáze × porucha osobnosti)",
+    "zdroj": "Vágnerová STR.62"
+  },
+  {
+    "front": "ZÍSKANÉ × vrozené postižení — jaký je rozdíl (případ 14 × 8/12/15/23)?",
+    "back": "ZÍSKANÉ (úraz, případ 14) = větší PSYCHICKÉ TRAUMA, protože člověk ví, co ztratil, a porovnává — ALE objektivně výhodnější: zachoval si kompetence a sociální dovednosti, které po adaptaci znovu uplatní. VROZENÉ (DMO, rozštěp) = ovlivní víc celý vývoj, ale subjektivně není tak traumatizující (zvyklý od dětství).",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "etiologie – získané × vrozené",
+    "zdroj": "Vágnerová STR.57, 61"
+  },
+  {
+    "front": "Jak se získané postižení projeví v chování a vnímání (případ 14)?",
+    "back": "Šok a popření trvalosti (čeká na zázrak, odmítá kontakt). Slovní agrese a obviňování okolí. GENERALIZACE — všechny problémy připisuje nepřesně svému postižení, i když s ním nesouvisí, nepřipustí, že i zdraví mají potíže. Riziko deprese a posttraumatického stresu; kolísání mezi rezignací a nadějí.",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.61–62, 71"
+  },
+  {
+    "front": "Terapie u získaného postižení (případ 14) — čeho se VYVAROVAT?",
+    "back": "Nehodnotit slovní agresi jako charakterovou vadu. Neoplácet agresi, neurážet se osobně, nezpřetrhat vztah (personál ani rodina nejsou skutečný viník). Nevmanipulovat ho do role bezmocného dítěte přehnanou péčí. Nepodporovat nereálné čekání na zázrak, ale ani nebrat naději úplně. Nepřehlížet riziko deprese.",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.61–62"
+  },
+  {
+    "front": "Terapie u získaného postižení (případ 14) — na čem PRACOVAT?",
+    "back": "Obnova soběstačnosti (kompenzační způsoby pohybu/sebeobsluhy; vzor jiného vozíčkáře — co všechno je možné). Zpracování ztráty a obnova identity (psychologická podpora, dostatek času jako u somatické rehabilitace). Hledání nového smyslu a hodnot, využití zachovaných oblastí (profese, koníčky). Klidné nekonfrontační reakce personálu.",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.61–62, 70, 73"
+  },
+  {
+    "front": "Případ 14: jak vyložit umístění v rehabilitačním ústavu a roli rodiny?",
+    "back": "Rehabilitační ústav = somatická rehabilitace, ale obnova přijatelné identity vyžaduje stejné (často delší) úsilí než rehabilitace těla. Rodiče se obvykle vrátí k pečovatelskému postoji a postiženého VMANIPULUJÍ do role závislého dítěte — podporovat partnerský, ne podřízený vztah a samostatnost.",
+    "pripad": 14,
+    "obor": "somatopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.62"
+  },
+  {
+    "front": "Případ 14: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Centrum Paraple (specializovaná pomoc po poškození míchy, nácvik soběstačnosti). Rehabilitační ústav (somatická rehabilitace). Liga vozíčkářů (sociální poradenství, bezbariérovost). Klinický psycholog (krizová intervence, prevence deprese). Sociální odbor / příspěvek na péči a na pomůcky.",
+    "pripad": 14,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Případ 15: jaké dvě roviny postižení se zde kombinují?",
+    "back": "1) Rozštěp páteře (spina bifida) = VROZENÁ vývojová vada uzávěru neurální trubice → postižení hybnosti DK (somatopedie). 2) Syndrom CAN (týrání) = ZÍSKANÉ psychické trauma z fyzického týrání otcem alkoholikem. Tělesné postižení + týrání se SKLÁDAJÍ (násobí zranitelnost).",
+    "pripad": 15,
+    "obor": "somatopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová STR.70, 181; Pipeková ⚠️"
+  },
+  {
+    "front": "Co je syndrom CAN a jaké jsou jeho tři varianty?",
+    "back": "CAN (Child Abuse and Neglect) = jakékoli nenáhodné jednání dospělého, v dané společnosti odmítané, jež poškozuje tělesný, duševní a společenský vývoj dítěte. Trpí jím ~1–2 % dětí. TŘI VARIANTY: 1) Zanedbávání (citová/sociokulturní deprivace), 2) Týrání fyzické i psychické (← tento případ: bití, nadměrné tresty), 3) Sexuální zneužívání.",
+    "pripad": 15,
+    "obor": "etopedie",
+    "tema": "typ / varianty CAN",
+    "zdroj": "Vágnerová STR.181"
+  },
+  {
+    "front": "Případ 15 (KLÍČOVÉ): proč chlapec reaguje přecitlivěle na prospěch a co to znamená?",
+    "back": "Týrané děti mají HORŠÍ PROSPĚCH, než odpovídá jejich předpokladům — chybí jim motivace a sebedůvěra, očekávají neúspěch a negativní hodnocení. Přecitlivělost je DŮSLEDEK TÝRÁNÍ (CAN), NE tíže postižení ani snížený intelekt. Horší prospěch ≠ nízká inteligence.",
+    "pripad": 15,
+    "obor": "etopedie",
+    "tema": "diferenciace (jádro případu)",
+    "zdroj": "Vágnerová STR.182–183"
+  },
+  {
+    "front": "Jak se projevuje syndrom CAN u týraného dítěte (případ 15)?",
+    "back": "Negativní sebehodnocení a přijetí role „špatného dítěte“ (pocit viny). Přecitlivělost a vztahovačnost — nedovede správně číst běžné projevy lidí, očekává ubližování i od neutrálních osob (učitel). Identifikace s agresorem (agrese k slabším) nebo únik/izolace. Autostimulace a sebepoškozování jako odreagování napětí.",
+    "pripad": 15,
+    "obor": "etopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.182–183"
+  },
+  {
+    "front": "Co je identifikace s agresorem a proč týrané dítě lpí na týrajícím rodiči (případ 15)?",
+    "back": "Identifikace s agresorem = obranný mechanismus: dítě se začne chovat jako trýznitel (agrese k slabším) → zbaví se pocitu bezmoci. Paradoxně může na týrajícího rodiče NEPOCHOPITELNĚ LPĚT — také obrana (rodič je jediná vazba, dítě hledá jeho přízeň). Nedivit se tomu, je to typické.",
+    "pripad": 15,
+    "obor": "etopedie",
+    "tema": "diferenciace (obrany × zlobení)",
+    "zdroj": "Vágnerová STR.182"
+  },
+  {
+    "front": "VROZENÉ × ZÍSKANÉ u případu 15 (rozštěp × týrání)?",
+    "back": "Rozštěp páteře je VROZENÉ postižení (chlapec na něj zvyklý od dětství). Týrání přidává ZÍSKANÉ psychické trauma. Vágnerová: „negativní vlivy se v případě postižených dětí SKLÁDAJÍ“ — postižené dítě je zranitelnější a hůře se týrání brání. Priorita: bezpečí dítěte.",
+    "pripad": 15,
+    "obor": "somatopedie",
+    "tema": "etiologie – vrozené × získané",
+    "zdroj": "Vágnerová STR.57, 183"
+  },
+  {
+    "front": "Terapie (případ 15) — čeho se VYVAROVAT?",
+    "back": "Nepřehlédnout a nebagatelizovat týrání (trpí jím víc dětí, než je zachyceno). Nehodnotit přecitlivělost a horší prospěch jako lenost nebo nízký intelekt. Netrestat agresi a sebepoškozování jako „zlobení“ — jsou to obrany. Nedivit se lpění na týrajícím otci. Nezvyšovat tlak a kritiku ve škole (posiluje očekávání neúspěchu).",
+    "pripad": 15,
+    "obor": "etopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.182–183"
+  },
+  {
+    "front": "Terapie (případ 15) — na čem PRACOVAT?",
+    "back": "PRIORITA: zajistit bezpečí — ohlásit podezření na týrání (OSPOD). Obnova sebedůvěry a sebehodnocení zážitkem bezpečného, spolehlivého vztahu. Trpělivé budování důvěry (počítat se vztahovačností, nereagovat odmítnutím). Citlivá podpora ve škole, oceňovat pokrok ne jen výkon. Péče o tělesné postižení (Denní centrum, fyzioterapie, soběstačnost).",
+    "pripad": 15,
+    "obor": "etopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.181–183, 70"
+  },
+  {
+    "front": "Případ 15: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "OSPOD (orgán sociálně-právní ochrany dětí) — ochrana před týráním, priorita. Dětské krizové centrum / Linka bezpečí — krizová pomoc týranému dítěti. SVP (středisko výchovné péče) / etoped — práce s chováním a obrannými reakcemi. Denní centrum pro tělesně postižené (už využívá). SPC pro tělesné postižení / PPP / klinický psycholog — vzdělávání a terapie traumatu.",
+    "pripad": 15,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je dětský autismus a kdo jej popsal?",
+    "back": "Nejvýznamnější pervazivní vývojová porucha. VROZENÁ porucha poznávacích procesů a socializace; vývoj odlišný od počátku života. Postihuje ~3–5 dětí z 10 000, častěji chlapce. Poprvé popsal 1943 L. Kanner.",
+    "pripad": 16,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.11.1, STR.84"
+  },
+  {
+    "front": "Dětský autismus v rámci spektra PAS — čím se liší od ostatních podtypů?",
+    "back": "Dětský autismus (F84.0): plná triáda od raného věku, řeč nápadná/chybí, MR u 75 %. Aspergerův sy (F84.5): intelekt i řeč v normě. Atypický autismus (F84.1): neúplná kritéria. Hellerův sy (F84.3): regres po normálním vývoji do 2 let.",
+    "pripad": 16,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "typ PAS",
+    "zdroj": "Vágnerová STR.84–87"
+  },
+  {
+    "front": "Dvě skupiny symptomů autismu (triáda PAS) podle Vágnerové?",
+    "back": "1) NEGATIVNÍ symptomy (chybění projevů): poruchy socializace, poznávání (orientace), rozvoje řeči (komunikační funkce). 2) POZITIVNÍ symptomy (nadměrné/zkreslené): odchylky v chování — autostimulace, sebezraňování. Odpovídá triádě: interakce + komunikace + stereotypní chování.",
+    "pripad": 16,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "projevy / triáda",
+    "zdroj": "Vágnerová STR.84–85"
+  },
+  {
+    "front": "Jaké jsou příčiny dětského autismu (a jaký mýtus vyvrátit)?",
+    "back": "Vrozená neurovývojová porucha — ORGANICKÉ postižení mozku, převážně GENETICKÉ předurčení. Faktory vnějšího prostředí nehrají podstatnou roli. POZOR: teorie „chladné matky\" (Bettelheim) je VYVRÁCENÝ, překonaný mýtus!",
+    "pripad": 16,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.84"
+  },
+  {
+    "front": "Co je echolálie a proč u autismu neznamená porozumění?",
+    "back": "Echolálie = opakování slov/vět druhého člověka BEZ porozumění a bez potřeby pochopit obsah. Děti reprodukují řeč jako jiné zvuky. Řeč u autismu NENÍ používána ke komunikaci (spíš repetitivní monolog). Typické i mluvení o sobě ve 3. osobě, nepoužívání „já\".",
+    "pripad": 16,
+    "obor": "logopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.86"
+  },
+  {
+    "front": "Terapie dětského autismu — čeho se VYVAROVAT?",
+    "back": "Nesvádět autismus na rodinu (mýtus chladné matky). Neměnit náhle prostředí/režim (dezorientace, afekt). Nečekat samovolnou generalizaci (naučené ve škole neumí použít doma). Nepřetěžovat komplexními podněty a hlukem. Nemotivovat pochvalou (sociální ocenění nemá hodnotu). Sebepoškozování nechápat jako zlobení.",
+    "pripad": 16,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.84–86"
+  },
+  {
+    "front": "Terapie dětského autismu — na čem PRACOVAT?",
+    "back": "Strukturované, předvídatelné prostředí, neměnný řád a rituály (uspokojují, „nezatěžují\"). Vizualizace (obrázkový denní režim). Logopedie + AAK na smíšenou poruchu řeči. Nácvik základních sociálních dovedností (= minimální sociální standard). Včasná všestranná podpora rodiny.",
+    "pripad": 16,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.86–87; Thorová/Klenková ⚠️"
+  },
+  {
+    "front": "Případ 16: jak vyložit smíšenou poruchu řeči, poruchy spánku a psychomotorický neklid?",
+    "back": "Smíšená porucha řeči (NKS) doplňuje jádrovou poruchu komunikace u autismu — řešit logopedií + AAK. Poruchy spánku a psychomotorický neklid souvisí s narušeným zpracováním podnětů a úzkostí (Vágnerová je u autismu výslovně nerozvádí ⚠️ doplněno z Thorové) — pomáhá spánková hygiena a snížení smyslové zátěže.",
+    "pripad": 16,
+    "obor": "logopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.85–86; Thorová ⚠️"
+  },
+  {
+    "front": "Případ 16: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "NAUTIS (dříve APLA) — diagnostika, strukturované učení. SPC pro PAS — IVP, speciální vzdělávání (integrace „nebývá příliš účelná\"). Klinický logoped (smíšená porucha řeči, AAK). Dětský psychiatr (spánek, neklid). Raná péče / sociální odbor.",
+    "pripad": 16,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je roztroušená skleróza (RS) a jak ji Vágnerová zařazuje?",
+    "back": "RS = chronické, PROGRESIVNÍ neurologické onemocnění (demyelinizace — poškození obalů nervových vláken v CNS) s KOLÍSAVÝM, postupně se zhoršujícím průběhem; postihuje hybnost, řeč, citlivost, únavu i psychiku. Vágnerová ji řadí do rámce TĚLESNÉHO POSTIŽENÍ, kde jsou klíčové dva aspekty: omezení pohyblivosti a viditelná odlišnost.",
+    "pripad": 17,
+    "obor": "somatopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.8.6, STR.70; Pipeková ⚠️"
+  },
+  {
+    "front": "Co je dysartrie a čím se liší od afázie?",
+    "back": "Dysartrie = porucha MOTORICKÉ REALIZACE řeči (artikulace) při poškození nervosvalového řízení mluvidel → „špatně srozumitelná řeč\". Na rozdíl od afázie NENÍ narušen jazyk ani porozumění — je narušena jen výslovnost (člověk ví, co chce říct). Afázie (případ 5) = ztráta jazyka/porozumění po poškození mozku.",
+    "pripad": 17,
+    "obor": "logopedie",
+    "tema": "definice / odlišení",
+    "zdroj": "Neubauer ⚠️; odlišení Vágnerová STR.49"
+  },
+  {
+    "front": "Které dva aspekty tělesného postižení Vágnerová zdůrazňuje?",
+    "back": "1) OMEZENÍ POHYBLIVOSTI → soběstačnost (lokomoce + sebeobsluha, ruce) určuje kvalitu života; vede k závislosti na druhých, omezení sociálních zkušeností a riziku izolace. 2) VIDITELNÁ ODLIŠNOST → snižuje sociální status a sebehodnocení; reakce okolí ovlivňují sebepojetí.",
+    "pripad": 17,
+    "obor": "somatopedie",
+    "tema": "klasifikace / aspekty",
+    "zdroj": "Vágnerová STR.70"
+  },
+  {
+    "front": "Jak se projevuje RS s dysartrií (případ 17)?",
+    "back": "Řeč (dysartrie): špatně srozumitelná výslovnost při zachovaném jazyku a porozumění → komunikační neúspěch zatěžuje sebevědomí. Hybnost a soběstačnost: omezení lokomoce a sebeobsluhy → závislost. Únava: typický příznak RS, snižuje výkon. Kolísavost a progrese: lepší/horší dny, postupné zhoršování. Psychika: nízké sebevědomí, riziko deprese, tendence generalizovat problémy.",
+    "pripad": 17,
+    "obor": "somatopedie",
+    "tema": "projevy",
+    "zdroj": "Vágnerová STR.70–71; Neubauer, Pipeková ⚠️"
+  },
+  {
+    "front": "Etiologie u případu 17 — bio/psycho/sociál + vrozené × získané?",
+    "back": "BIO = hlavní: demyelinizace v CNS → porucha hybnosti, citlivosti, řeči (dysartrie), únava; progresivní a kolísavý průběh. PSYCHO = modifikátor (klíč): nízké sebevědomí z poklesu soběstačnosti a komunikačního neúspěchu; zvládání zlosti a úzkosti. SOCIÁL = generalizace „závislá\" + riziko vyhýbání se lidem. SPIRITUÁL ⚠️ = rozměr důstojnosti, ne etiologie. RS je ZÍSKANÁ a PROGRESIVNÍ → nutnost přijmout novou identitu.",
+    "pripad": 17,
+    "obor": "somatopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.54,70–71; Pipeková ⚠️"
+  },
+  {
+    "front": "Případ 17: NEJDŮLEŽITĚJŠÍ odlišení — dysartrie × afázie × intelekt?",
+    "back": "Dysartrie (tento případ) = porucha VÝSLOVNOSTI; jazyk a porozumění ZACHOVÁNY. Afázie (případ 5) = vázne sám JAZYK/porozumění po poškození mozku. Špatně srozumitelná řeč ≠ snížený intelekt — nejednat s pacientkou „přes hlavu\". RS je PROGRESIVNÍ a KOLÍSAVÁ (ne stacionární) → pružný přístup, ne fixní nároky.",
+    "pripad": 17,
+    "obor": "logopedie",
+    "tema": "diferenciace / kontext případu",
+    "zdroj": "Vágnerová STR.49,70"
+  },
+  {
+    "front": "RS + dysartrie — čeho se VYVAROVAT?",
+    "back": "Nepřetěžovat (únava a kolísavý stav; nadměrná zátěž zhoršuje výkon i náladu). Nezaměnit špatně srozumitelnou řeč za snížený intelekt ani nejednat „přes hlavu\". Negeneralizovat člověka jako „úplně závislého\" — podporovat zachované kompetence. Neignorovat kolísavost (lepší/horší dny, ne fixní nároky). Nepodceňovat psychiku (nízké sebevědomí, riziko deprese).",
+    "pripad": 17,
+    "obor": "somatopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.49,70–71; Pipeková ⚠️"
+  },
+  {
+    "front": "RS + dysartrie — na čem PRACOVAT?",
+    "back": "Logopedie dysartrie (srozumitelnost řeči, tempo, dech; dle potřeby AAK). Fyzioterapie a udržení soběstačnosti + kompenzační pomůcky. Přiměřená, PRUŽNÁ zátěž s ohledem na únavu a kolísání. Posílení sebevědomí (zaměřit se na zvládnuté činnosti a úspěchy v komunikaci). Podpora přijetí změněné identity a zvládání zlosti/úzkosti.",
+    "pripad": 17,
+    "obor": "somatopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.54,70–71; Neubauer ⚠️"
+  },
+  {
+    "front": "Případ 17: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Neurolog (RS centrum — léčba RS, zpomalení progrese, sledování stavu), klinický logoped (terapie dysartrie, příp. AAK), fyzioterapeut/ergoterapeut (hybnost, soběstačnost, pomůcky), Unie Roska (organizace lidí s RS — poradenství, svépomoc, rehabilitace), denní stacionář (už využívá) + klinický psycholog (podpora sebevědomí). ⚠️ ověřit aktuálnost.",
+    "pripad": 17,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit"
+  },
+  {
+    "front": "Co je nízkofunkční autismus?",
+    "back": "Těžká forma poruchy autistického spektra v rámci dětského autismu (vrozená porucha poznávání a socializace). Charakteristické těžké postižení komunikace a porozumění a velmi častá kombinace s MR (mentální retardace postihuje 75 % autistických dětí).",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.11.1, STR.84, 86"
+  },
+  {
+    "front": "Nízkofunkční autismus v rámci spektra PAS — kde leží?",
+    "back": "Nejnižší funkčnost spektra: těžké postižení komunikace a porozumění, často + MR. Proti tomu dětský autismus střední funkčnosti (řeč nápadná), Aspergerův sy (intelekt i řeč v normě) a atypický autismus (neúplná kritéria).",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "typ PAS",
+    "zdroj": "Vágnerová STR.86–87; Thorová ⚠️"
+  },
+  {
+    "front": "Triáda PAS u nízkofunkčního autismu — jak vypadá?",
+    "back": "Triáda = sociální interakce + komunikace + stereotypní chování. U nízkofunkční formy je nejtěžší porucha KOMUNIKACE a porozumění (rozumí jen pár slovům) + výrazné stereotypie/autostimulace + snížené rozumové schopnosti.",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "projevy / triáda",
+    "zdroj": "Vágnerová STR.84–86"
+  },
+  {
+    "front": "Případ 18: co znamená „narušené sluchové vnímání\" u autismu (KLÍČOVÉ)?",
+    "back": "NENÍ to periferní hluchota! Jde o poruchu CENTRÁLNÍHO zpracování (dysgnózie). Dítě sluch má velmi dobře rozvinutý, přesně diferencuje zvuky, ALE neodlišuje zvuky řečové od jiných a nedekóduje význam slov. Proto slyší na jméno, ale nerozumí slovům.",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.85"
+  },
+  {
+    "front": "Jaké jsou příčiny PAS / nízkofunkčního autismu (a jaký mýtus vyvrátit)?",
+    "back": "Vrozená neurovývojová porucha — ORGANICKÉ postižení mozku, převážně GENETICKÉ předurčení; faktory prostředí nehrají podstatnou roli. U nízkofunkční formy + snížené rozumové schopnosti (MR). POZOR: teorie „chladné matky\" (Bettelheim) je VYVRÁCENÝ mýtus!",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.84, 86"
+  },
+  {
+    "front": "Nízkofunkční autismus × periferní sluchové postižení × MR — jak odlišit?",
+    "back": "Nízkofunkční autismus: slyší, ale centrální zpracování narušeno (dysgnózie), plná triáda, často + MR. Periferní sluchové postižení: narušen příjem zvuku uchem, ale zájem o kontakt a komunikaci zachován. MR (bez autismu): sluch v normě, vztah k blízké osobě vzniká.",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.77, 82, 85; kap.8.5"
+  },
+  {
+    "front": "Terapie nízkofunkčního autismu — čeho se VYVAROVAT?",
+    "back": "Nezaměnit za periferní hluchotu (zesílení zvuku nepomůže). Nespoléhat na mluvenou instrukci (rozumí jen pár slovům) — používat vizuál a AAK. Neměnit náhle prostředí/režim. Nepřetěžovat hlasitými/komplexními podněty (přecitlivělost). Sebepoškozování nechápat jako zlobení.",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.85–86; Thorová ⚠️"
+  },
+  {
+    "front": "Terapie nízkofunkčního autismu — na čem PRACOVAT?",
+    "back": "Vizualizace + AAK (piktogramy, výměnné karty) jako náhrada chybějícího porozumění řeči. Strukturované učení (TEACCH), neměnný řád a rituály. Nácvik sebeobsluhy po malých krocích. Materiální/strukturovaná odměna místo pochvaly. Všestranná podpora rodiny.",
+    "pripad": 18,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.85–87; Thorová ⚠️"
+  },
+  {
+    "front": "Případ 18: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "NAUTIS (dříve APLA) — diagnostika, strukturované učení, AAK. SPC pro PAS — IVP, speciální vzdělávání. Foniatr/audiolog — vyloučit periferní vadu sluchu (dif. dg.). Klinický logoped — AAK. Sociální odbor / příspěvek na péči.",
+    "pripad": 18,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je mentální retardace a kde je „hranice defektivity\"?",
+    "back": "Souhrnné označení VROZENÉHO defektu rozumových schopností (méně než 70 % normy), trvalého. Příčinou je porucha CNS. Hranice mentální defektivity = IQ 70 (průměr = IQ 100). V populaci ~3 %.",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.10, STR.77, 78"
+  },
+  {
+    "front": "Lehká mentální retardace (F70) — úroveň myšlení, řeči a učení?",
+    "back": "IQ 50–69. Myšlení na úrovni dětí STŘEDNÍHO ŠKOLNÍHO VĚKU — respektuje některá pravidla logiky, ale NEUVAŽUJE abstraktně (chybí abstraktní pojmy, jen konkrétní označení). JE schopen se učit, zvládne výuku ve zvláštní/pomocné škole (ZŠ speciální/praktická).",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "stupeň F70",
+    "zdroj": "Vágnerová STR.78"
+  },
+  {
+    "front": "ZKUŠEBNÍ PAST: případ 19 (F70) vs případ 22 (F71) — jaký je rozdíl?",
+    "back": "Medailonek je skoro identický (muž 34 let, vada řeči, ZŠ speciální, šikanován, potíže v kontaktu). JEDINÝ rozdíl: 19 = LEHKÁ MR (F70, IQ 50–69, myšlení ≈ školák, respektuje logiku); 22 = STŘEDNĚ TĚŽKÁ MR (F71, IQ 35–49, myšlení ≈ předškolák) + navíc AGRESIVITA/SEBEPOŠKOZOVÁNÍ. Případ 19 agresivitu v zadání NEMÁ.",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "diferenciace stupňů",
+    "zdroj": "Vágnerová STR.78, 82–83"
+  },
+  {
+    "front": "Případ 19: jak vyložit šikanu a „potíže v navazování kontaktu s okolím\"?",
+    "back": "Šikana = násilně ponižující chování vůči slabšímu; slabost oběti agresi posiluje. NENÍ příčinou MR — je to SOCIÁLNÍ DŮSLEDEK → snížené sebevědomí, nedůvěra, strach → potíže v kontaktu. Řešení: obnova důvěry, nácvik sociálních dovedností, netlačit do kontaktu silou.",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.81, 155"
+  },
+  {
+    "front": "Hlavní příčiny vzniku mentální retardace?",
+    "back": "1) Dědičné (Downův sy = trizomie 21; polygenní). 2) Teratogenní prenatální (záření, alkohol, léky, virus zarděnek). 3) Perinatální (asfyxie, krvácení do mozku). 4) Postnatální do 18 měsíců (později = získané). POZOR: pseudooligofrenie (ze zanedbanosti, bez narušení CNS) NENÍ MR.",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.78"
+  },
+  {
+    "front": "Mentální retardace × demence × pseudooligofrenie?",
+    "back": "MR = VROZENÝ defekt rozumu od počátku vývoje, trvalý, CNS narušena. Demence = ZÍSKANÝ úbytek dříve normálního rozumu (zhoršuje se). Pseudooligofrenie = ze zanedbanosti, CNS bez narušení, zlepšitelná v lepším prostředí (NENÍ MR).",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.77, 78"
+  },
+  {
+    "front": "Případ 19 (lehká MR + šikana) — čeho se VYVAROVAT?",
+    "back": "Nepřetěžovat abstrakcí (F70 chápe konkrétní logiku, ne abstraktní pojmy). Nepoužívat ironii/metafory/složité instrukce. Nebagatelizovat následky šikany — netlačit do kontaktu silou, budovat důvěru postupně. Nezneužít sugestibilitu (chránit před manipulací). Nenechat dospělého bez vedení.",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.78, 80, 81, 155"
+  },
+  {
+    "front": "Případ 19 (lehká MR + šikana) — na čem PRACOVAT?",
+    "back": "Klidné, srozumitelné, BEZPEČNÉ prostředí + pravidelný režim. Obnova důvěry a sebevědomí po šikaně (pozitivní zkušenosti, nácvik sociálních dovedností). Pracovní začlenění přiměřené F70 (zvládne jednoduchou práci) — podporované zaměstnávání. Pozitivní hodnocení/pochvala. Logopedie na vadu řeči.",
+    "pripad": 19,
+    "obor": "psychopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.79, 81, 82–83, 155"
+  },
+  {
+    "front": "Případ 19: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "SPC (diagnostika, poradenství), klinický logoped (vada řeči), psycholog/psychoterapie (následky šikany, sociální dovednosti), podporované zaměstnávání / chráněné dílny, SPMP ČR, sociální odbor (příspěvek na péči).",
+    "pripad": 19,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je demence a v čem je klíčový rozdíl oproti mentální retardaci?",
+    "back": "Demence = syndrom úbytku komplexu kognitivních funkcí (hlavně inteligence a paměti) — ZTRÁTA již rozvinutých funkcí, ZÍSKANÉ postižení na organickém podkladě CNS, progredující. MR je naopak VROZENÁ od počátku vývoje. ('Stařecká demence' = laický pojem pro demenci ve stáří, nejčastěji Alzheimerova/smíšená.)",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "definice + diferenciace",
+    "zdroj": "Vágnerová kap.9, STR.72–73"
+  },
+  {
+    "front": "Co jsou BPSD (behaviorální a psychologické symptomy demence)?",
+    "back": "Emoční a behaviorální projevy demence vedle kognitivních: poruchy emotivity (labilita, dráždivost), afektivní výbuchy, agitovanost, negativismus, apaticko-abulický syndrom; ztráta empatie, bezohlednost, egocentrismus → ztěžují soužití. Poruchy emotivity jsou STABILNÍM a typickým příznakem demencí.",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "BPSD / projevy",
+    "zdroj": "Vágnerová STR.73–74; Pidrman ⚠️"
+  },
+  {
+    "front": "Případ 20: proč odmítá fyzioterapii a jakoukoliv činnost?",
+    "back": "Jde o APATICKO-ABULICKÝ SYNDROM — zúžení až ztráta motivace, iniciativy a zájmu o cokoli. Je to PŘÍZNAK NEMOCI (organický podklad), NE lenost ani naschvál. Reakce: nabízet drobnou činnost po malých krocích bez nátlaku, navázat na chvíle ochoty.",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.73"
+  },
+  {
+    "front": "Případ 20: proč vyvolává konflikty se spolubydlícími?",
+    "back": "Demence vede ke ztrátě empatie, k bezohlednosti, egocentrismu, dráždivosti a negativismu — nemocní přestávají respektovat běžné normy chování. Je to BPSD, ne 'zlá povaha'. Reakce: nekonfrontovat, neargumentovat logikou, validovat, předcházet spouštěčům a oddělit od dráždivých situací.",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.73–74, 76"
+  },
+  {
+    "front": "Případ 20: jak do rozboru zahrnout zármutek a izolaci?",
+    "back": "Čerstvé ovdovění (úmrtí manžela) = akutní psychická zátěž, která prohlubuje apatii, depresi i dráždivost. Sociální izolace (synové na návštěvě jen 2× ročně) odebírá podpůrný kontakt, který demenci zmírňuje. PSYCHO a SOCIÁL jsou zde silné modifikátory průběhu — patří do analýzy.",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "etiologie / kontext",
+    "zdroj": "Vágnerová STR.74–76"
+  },
+  {
+    "front": "Hlavní příčina (etiologie) demence — bio/psycho/sociál?",
+    "back": "BIO = hlavní: organické poškození CNS (neurodegenerace u Alzheimera — nejčastější; nebo cévní poškození). PSYCHO a SOCIÁL = modifikátory (u případu 20 silné: zármutek po ovdovění, izolace). SPIRITUÁL ⚠️ = jen rozměr důstojnosti, doprovázení a péče, NE etiologie.",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.72–74"
+  },
+  {
+    "front": "Demence s BPSD — čeho se VYVAROVAT?",
+    "back": "Neargumentovat logikou a nevyvracet realitu (nemocný nechápe → výbuch). Nekonfrontovat a netlačit do činnosti silou. Nepřičítat vinu za konflikty ('dělá to schválně'). Nepodporovat únik rodiny ('nemá to smysl') — prohlubuje izolaci. Nepřehlížet čerstvý zármutek.",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.74, 76"
+  },
+  {
+    "front": "Demence s BPSD — na čem PRACOVAT?",
+    "back": "VALIDACE (přijmout prožívání, neopravovat realitu, klidný tón). Stabilní známý režim a předvídatelnost. Drobná dobrovolná aktivizace po malých krocích (bez nátlaku) proti apatii. Mírnit konflikty předcházením spouštěčů. Podpora kontaktu s rodinou a se známými (návštěvy působí podpůrně).",
+    "pripad": 20,
+    "obor": "gerontopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.74–76; Pidrman/Jirák ⚠️"
+  },
+  {
+    "front": "Případ 20: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Domov pro osoby se ZP / domov se zvláštním režimem, psychiatr/geriatr (zvládání BPSD, případná medikace), fyzioterapeut (citlivě, bez nátlaku), Česká alzheimerovská společnost (ČALS), sociální pracovník/rodina (řešit izolaci, podpořit návštěvy synů; příspěvek na péči). ⚠️ ověřit aktuálnost.",
+    "pripad": 20,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit"
+  },
+  {
+    "front": "Co je atypický autismus a čím se liší od dětského autismu?",
+    "back": "Pervazivní vývojová porucha (PAS, F84.1), která NESPLŇUJE PLNĚ kritéria dětského autismu — buď nastupuje později, nebo je triáda neúplná (chybí příznaky v jedné oblasti). Vývoj je odlišný od počátku života jako u ostatních PAS.",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.11, STR.84; Thorová ⚠️"
+  },
+  {
+    "front": "Atypický autismus v rámci spektra PAS — kde leží?",
+    "back": "F84.1 — neúplná/atypická kritéria. Dětský autismus (F84.0) = plná triáda od raného věku. Aspergerův sy (F84.5) = intelekt i řeč v normě. Hellerův sy (F84.3) = regres po normálním vývoji do 2 let. U tohoto muže komorbidita s MR.",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "typ PAS",
+    "zdroj": "Vágnerová STR.87; Thorová ⚠️"
+  },
+  {
+    "front": "Triáda PAS u atypického autismu — jak vypadá?",
+    "back": "Triáda = sociální interakce + komunikace + stereotypní chování. U atypického autismu je triáda NEÚPLNÁ nebo se projevila atypicky/později. Přítomna porucha socializace, omezená komunikace a potřeba neměnnosti (rituály).",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "projevy / triáda",
+    "zdroj": "Vágnerová STR.84–86; Thorová ⚠️"
+  },
+  {
+    "front": "Jaké jsou příčiny PAS (a jaký mýtus vyvrátit)?",
+    "back": "Vrozená neurovývojová porucha — ORGANICKÉ postižení mozku, převážně GENETICKÉ předurčení; faktory prostředí nehrají podstatnou roli. Autismus je vrozený i u dospělého. POZOR: teorie „chladné matky\" (Bettelheim) je VYVRÁCENÝ mýtus!",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.84"
+  },
+  {
+    "front": "Případ 21: jak v dospělosti odlišit reakci na ztrátu od demence?",
+    "back": "Autismus (i atypický) je VROZENÝ, trvá celý život — mění se životní situace (smrt rodičů a sourozence, nástup do ÚSP), NE podstata poruchy. Afekt/regres po ztrátě = reakce na ztrátu a změnu, nezaměnit za demenci (získaný úbytek rozumu) ani psychózu.",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.84, 87; kap.9"
+  },
+  {
+    "front": "Co o dospělých s autismem a ústavní péči říká Vágnerová?",
+    "back": "I v dospělosti bývá sociální zařazení obtížné: potřebují chráněné bydlení a zaměstnání, často proto končí v ústavním zařízení. Jakákoli zvládnutelná pracovní činnost uchovává kompetence a dává životu náplň. (Odpovídá umístění do ÚSP.)",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.84, 87"
+  },
+  {
+    "front": "Terapie/péče u dospělého s atypickým autismem — čeho se VYVAROVAT?",
+    "back": "Nezahltit změnami (náhlý přesun, nové osoby a režim jsou pro PAS extrémně zátěžové). Nepodceňovat truchlení a zmatek ze ztráty; afekt/regres nechápat jako zlobení. Nezaměnit reakci na ztrátu za demenci. Neměnit zbytečně pečující osoby. Nemotivovat sociální pochvalou.",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.85–86; kap.9"
+  },
+  {
+    "front": "Terapie/péče u dospělého s atypickým autismem — na čem PRACOVAT?",
+    "back": "Stabilní, předvídatelné prostředí v ÚSP, jasná struktura dne a rituály. Citlivá adaptace na ztrátu (postupné zvykání, vizuální podpora, doprovázení). Zachování soběstačnosti a pracovní náplň. Vizualizace a strukturované učení pro dospělého. Sociální/právní zajištění (opatrovnictví, příspěvek na péči).",
+    "pripad": 21,
+    "obor": "speciální pedagogika osob s PAS",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.84, 86–87; Thorová ⚠️"
+  },
+  {
+    "front": "Případ 21: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "ÚSP / domov pro osoby se ZP (už využívá) — pobytová služba, stálý režim. NAUTIS (dříve APLA) — metodická podpora péče o dospělé s PAS. Psychiatr/psycholog (zvládání ztráty). Sociální pracovník/opatrovník (opatrovnictví, příspěvek na péči). Chráněné dílny (pracovní náplň).",
+    "pripad": 21,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je mentální retardace a kde je „hranice defektivity\"?",
+    "back": "Souhrnné označení VROZENÉHO defektu rozumových schopností (méně než 70 % normy), trvalého. Příčinou je porucha CNS. Hranice mentální defektivity = IQ 70 (průměr = IQ 100). V populaci ~3 %.",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.10, STR.77, 78"
+  },
+  {
+    "front": "Středně těžká MR (F71) — úroveň myšlení, řeči a učení?",
+    "back": "IQ 35–49. Myšlení ≈ PŘEDŠKOLNÍ dítě. Řeč chudá, agramatická, špatně artikulovaná; chybí i méně běžné konkrétní pojmy. Učí se JEN MECHANICKY na praktické úrovni. Zvládne běžné návyky a jednoduché dovednosti (sebeobsluha, pracovní úkony).",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "stupeň F71",
+    "zdroj": "Vágnerová STR.78"
+  },
+  {
+    "front": "ZKUŠEBNÍ PAST: případ 22 (F71) vs případ 19 (F70) — dva rozdíly?",
+    "back": "Medailonek skoro identický (muž 34 let, vada řeči, ZŠ speciální, šikanován, potíže v kontaktu). ROZDÍLY: 1) stupeň — 22 = STŘEDNĚ TĚŽKÁ (F71, IQ 35–49, myšlení ≈ předškolák), 19 = LEHKÁ (F70, IQ 50–69, myšlení ≈ školák). 2) Případ 22 má NAVÍC agresivitu/sebepoškozování; případ 19 ji nemá.",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "diferenciace stupňů",
+    "zdroj": "Vágnerová STR.78, 82–83"
+  },
+  {
+    "front": "Případ 22: jak vyložit agresivitu a sebepoškozování?",
+    "back": "NENÍ to „zlobení\". Agrese se v rané dospělosti zvyšuje jako reakce na stresující prostředí (odmítání, omezování, které nechápe) NEBO z biologických faktorů (dráždivost u organického poškození). Sebepoškozování = autostimulace / mechanismus uvolňující napětí z přetěžování, případně neverbální KOMUNIKACE potřeb. Řešit úpravou zátěže a podnětů, ne trestem.",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.82, 83"
+  },
+  {
+    "front": "Případ 22: jak vyložit šikanu a potíže v kontaktu?",
+    "back": "Šikana = násilně ponižující chování vůči slabšímu (MR + vada řeči = snadný terč). NENÍ příčinou MR — je to sociální důsledek → snížené sebevědomí, nedůvěra, potíže v navazování kontaktu. Problémové chování bývá u závažněji postižených způsobem neverbální komunikace.",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "diferenciace",
+    "zdroj": "Vágnerová STR.83, 155"
+  },
+  {
+    "front": "Hlavní příčiny vzniku mentální retardace?",
+    "back": "1) Dědičné (Downův sy = trizomie 21; polygenní). 2) Teratogenní prenatální (záření, alkohol, léky, virus zarděnek). 3) Perinatální (asfyxie, krvácení do mozku). 4) Postnatální do 18 měsíců (později = získané). POZOR: pseudooligofrenie (ze zanedbanosti, bez narušení CNS) NENÍ MR.",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "etiologie",
+    "zdroj": "Vágnerová STR.78"
+  },
+  {
+    "front": "Případ 22 (středně těžká MR + agrese) — čeho se VYVAROVAT?",
+    "back": "Nepřetěžovat (nesrozumitelné nároky spouští afekty a sebepoškozování). NEREAGOVAT na agresi/sebepoškozování TRESTEM — je to obrana/komunikace, trest jen zvyšuje napětí. Nevyžadovat abstrakci, rychlé reakce, časté změny. Nepoužívat ironii/metafory. Neměnit zbytečně prostředí a pečující osoby; nebagatelizovat šikanu.",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.80, 82, 83, 155"
+  },
+  {
+    "front": "Případ 22 (středně těžká MR + agrese) — na čem PRACOVAT?",
+    "back": "Klidné, stabilní, srozumitelné a BEZPEČNÉ prostředí + stereotyp a režim. Hledat a odstraňovat SPOUŠTĚČE agrese/sebepoškozování + nabídnout náhradní podnět. Citová jistota (motivátor učení). AAK — naučit sdělit potřebu místo afektu. Obnova důvěry po šikaně + pochvala. Sebeobsluha a jednoduché úkony na úrovni F71.",
+    "pripad": 22,
+    "obor": "psychopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.79, 81, 82–83, 155"
+  },
+  {
+    "front": "Případ 22: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "SPC (diagnostika, poradenství), klinický logoped (vada řeči + AAK), psycholog/psychiatr (spouštěče agrese, následky šikany, případně medikace afektů), denní stacionář / chráněné bydlení (struktura, bezpečí), SPMP ČR, sociální odbor (příspěvek na péči).",
+    "pripad": 22,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  },
+  {
+    "front": "Co je rozštěp páteře (spina bifida) a jaký je v případě 23 typ postižení?",
+    "back": "Vrozená vývojová vada neúplného uzávěru neurální trubice / páteřního kanálu; různá míra postižení hybnosti dolních končetin a funkcí pánve. VROZENÉ tělesné postižení (somatopedie). U této ženy lehčí stupeň — chodí o francouzských berlích, vystudovala SŠ.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "definice",
+    "zdroj": "Vágnerová kap.8.6, STR.70; Pipeková ⚠️"
+  },
+  {
+    "front": "Případ 23 (KLÍČOVÉ): co je skutečným jádrem problému — tíže postižení, nebo něco jiného?",
+    "back": "NE tíže postižení! Žena chodí o berlích a vystudovala SŠ ekonomickou — objektivně by zvládla víc. Jádrem je PSYCHOSOCIÁLNÍ rozměr: nesoběstačnost a závislost na matce jsou z velké části NAUČENÉ (hyperprotektivní výchova, neuvolnění symbiotické vazby), ne nutný důsledek vady.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "diferenciace (jádro případu)",
+    "zdroj": "Vágnerová STR.58, 70"
+  },
+  {
+    "front": "Co je hyperprotektivita a jak souvisí se závislostí (případ 23)?",
+    "back": "Hyperprotektivita = nadměrně ochranitelský postoj rodiče a neochota uvolnit symbiotickou vazbu s dítětem. U postižených dětí je osamostatňování vždy obtížnější a rodiče přetrvávání závislosti považují za přiměřené → vzniká pasivně-receptivní postoj a naučená nesamostatnost. Závislost funguje jako zdroj jistoty a bezpečí.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "etiologie (psychosociální)",
+    "zdroj": "Vágnerová STR.58–59"
+  },
+  {
+    "front": "Proč je u případu 23 chybou hodnotit ženu jako mentálně postiženou nebo neschopnou?",
+    "back": "Tělesné postižení ≠ snížený intelekt. Žena vystudovala STŘEDNÍ EKONOMICKOU ŠKOLU — inteligence je zachována. Pohybově postižení mohou studovat většinu oborů a dosahovat dobrých výsledků; profesní role bývá nejdůležitější složkou identity. Tělesné ≠ mentální.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "diferenciace (tělesné × mentální)",
+    "zdroj": "Vágnerová STR.70"
+  },
+  {
+    "front": "VROZENÉ × získané u případu 23 (rozštěp × úraz)?",
+    "back": "Rozštěp páteře je VROZENÉ postižení — žena je na něj zvyklá od dětství, není subjektivně tak traumatizující jako úraz, zato více formuje vývoj. Riziko vrozeně postižených: nedostatečné osamostatnění a fixace závislosti. Kontrast: získaná paraplegie (případ 14) = náhlá ztráta, větší trauma, ale zachované kompetence.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "etiologie – vrozené × získané",
+    "zdroj": "Vágnerová STR.57–59"
+  },
+  {
+    "front": "Terapie (případ 23) — čeho se VYVAROVAT?",
+    "back": "Nepřičítat nesoběstačnost jen postižení (z velké části je naučená). Nepodporovat hyperprotektivitu matky a setrvávání symbiotické vazby. Nepodceňovat intelekt a kompetence. Neřešit za ni vše „pro jistotu“ (upevňuje pasivitu). Nezanedbat vrstevnické a partnerské vztahy mimo matku.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "terapie – vyvarovat se",
+    "zdroj": "Vágnerová STR.58–59, 70"
+  },
+  {
+    "front": "Terapie (případ 23) — na čem PRACOVAT?",
+    "back": "Postupné osamostatňování (nácvik soběstačnosti, podporované bydlení, vlastní rozhodování). Pracovní uplatnění s využitím SŠ ekonomické. Práce s matkou — uvolnění symbiotické vazby, přenesení péče na služby. Posílení sebedůvěry a motivace k autonomii (chybí motivace, ne schopnosti). Rozšíření sociálních vztahů mimo domácnost.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "terapie – pracovat na",
+    "zdroj": "Vágnerová STR.58–59, 62, 70"
+  },
+  {
+    "front": "Případ 23: jak vyložit chůzi o berlích, SŠ a soužití s matkou po rozvodu rodičů?",
+    "back": "Berle = zachovaná částečná lokomoce (tělesný stav umožňuje vyšší samostatnost, než žena uplatňuje). SŠ = zachovaný intelekt a kompetence. Po rozvodu je matka jediné zázemí → silná symbiotická vazba, která nahrazuje partnerství a brání dospělé roli. Cíl: přenést jistotu z matky na vlastní kompetence a služby.",
+    "pripad": 23,
+    "obor": "somatopedie",
+    "tema": "kontext případu",
+    "zdroj": "Vágnerová STR.58, 62, 70"
+  },
+  {
+    "front": "Případ 23: s kým / čím propojit (organizace, odborníci v ČR)?",
+    "back": "Liga vozíčkářů (poradenství, samostatný život, zaměstnávání). Sociální rehabilitace / podporované bydlení a zaměstnávání (nácvik samostatnosti, práce). Psycholog / rodinný terapeut (závislost, hyperprotektivní vazba). Fyzioterapeut (hybnost, berle). Sociální odbor / příspěvek na péči (nastavit tak, aby podporoval samostatnost).",
+    "pripad": 23,
+    "obor": "organizace",
+    "tema": "propojení",
+    "zdroj": "bibliografie.md ⚠️ ověřit aktuálnost"
+  }
+]
