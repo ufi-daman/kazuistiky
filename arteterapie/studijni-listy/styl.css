@@ -1,0 +1,102 @@
+/* Sdílený styl arteterapeutických listů ke kazuistikám. Linkuje ho každý NN-*.html.
+   Shodný se spec-ped listy; liší se jen akcent (terakota/okrová) pro odlišení větve. */
+:root{
+  --bg:#eef1f8; --paper:#ffffff; --ink:#1e2333; --muted:#5b6478; --line:#e4e8f2;
+  --accent:#c0562f; --accent-soft:#fbeee6;
+  --bio:#1aa37a; --bio-bg:#e7f7f0; --psycho:#8a4fd5; --psycho-bg:#f2eafe;
+  --social:#2b74d4; --social-bg:#e8f1fd; --spirit:#c98a1a; --spirit-bg:#fbf2e0;
+  --avoid:#d23f4d; --avoid-bg:#fdecee; --work:#1aa37a; --work-bg:#e7f7f0;
+  --warn:#b8860b; --warn-bg:#fff7e2; --warn-line:#f0d68a;
+  --shadow:0 6px 22px rgba(30,40,80,.08);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);line-height:1.6;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;}
+.wrap{max-width:880px;margin:0 auto;padding:0 18px 80px;}
+
+/* top bar */
+.topbar{position:sticky;top:0;z-index:5;background:rgba(238,241,248,.92);
+  backdrop-filter:blur(6px);display:flex;gap:14px;align-items:center;
+  padding:12px 0;margin-bottom:8px;border-bottom:1px solid var(--line);font-size:14px;}
+.topbar a{color:var(--accent);text-decoration:none;font-weight:600;}
+.topbar a:hover{text-decoration:underline;}
+.topbar .sep{color:var(--muted);}
+
+/* header card */
+.head{background:var(--paper);border-radius:18px;box-shadow:var(--shadow);
+  padding:24px 26px;margin:10px 0 22px;border:1px solid var(--line);}
+.head h1{margin:0 0 10px;font-size:24px;line-height:1.25;}
+.profil{background:var(--accent-soft);border-left:4px solid var(--accent);
+  border-radius:10px;padding:12px 16px;color:#33405e;font-size:15px;margin:12px 0;}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px;}
+.badge{font-size:12.5px;padding:5px 11px;border-radius:999px;font-weight:600;
+  background:var(--accent-soft);color:#8f3d1c;}
+.badge.full{background:var(--bio-bg);color:#0d7a56;}
+.badge.partial{background:var(--spirit-bg);color:#9a6a10;}
+.badge.out{background:#f0eef0;color:#6a6a6a;}
+.head .src-line{font-size:13.5px;color:var(--muted);margin-top:12px;}
+
+/* sections */
+section{background:var(--paper);border-radius:16px;box-shadow:var(--shadow);
+  border:1px solid var(--line);padding:20px 24px;margin:16px 0;}
+section h2{display:flex;align-items:center;gap:12px;margin:0 0 6px;font-size:19px;}
+.num{flex:0 0 auto;width:34px;height:34px;border-radius:10px;background:var(--accent);
+  color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center;font-size:15px;}
+.q{font-size:12px;text-transform:uppercase;letter-spacing:1.2px;color:var(--accent);
+  font-weight:700;margin-left:2px;}
+section h3{font-size:15px;margin:16px 0 6px;color:#2a3147;}
+
+/* BPSS axes */
+.axes{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:10px;}
+.axis{border-radius:12px;padding:12px 14px;font-size:14.5px;}
+.axis b{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.6px;margin-bottom:4px;}
+.axis.bio{background:var(--bio-bg);} .axis.bio b{color:var(--bio);}
+.axis.psycho{background:var(--psycho-bg);} .axis.psycho b{color:var(--psycho);}
+.axis.social{background:var(--social-bg);} .axis.social b{color:var(--social);}
+.axis.spirit{background:var(--spirit-bg);} .axis.spirit b{color:var(--spirit);}
+
+/* where (kde) columns */
+.cols{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-top:10px;}
+.col{background:#f7f9fe;border:1px solid var(--line);border-radius:12px;padding:12px 14px;font-size:14px;}
+.col h4{margin:0 0 6px;font-size:13px;color:var(--accent);text-transform:uppercase;letter-spacing:.6px;}
+
+/* therapy split */
+.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:10px;}
+.split .box{border-radius:12px;padding:14px 16px;font-size:14.5px;}
+.box.avoid{background:var(--avoid-bg);border:1px solid #f3c6cb;}
+.box.work{background:var(--work-bg);border:1px solid #bfe8d7;}
+.box h4{margin:0 0 8px;font-size:15px;}
+.box.avoid h4{color:var(--avoid);} .box.work h4{color:var(--work);}
+.box ul{margin:0;padding-left:18px;} .box li{margin:6px 0;}
+
+/* tables */
+table{width:100%;border-collapse:collapse;margin:10px 0;font-size:14px;}
+th,td{text-align:left;padding:9px 11px;border-bottom:1px solid var(--line);vertical-align:top;}
+th{background:#f3f5fc;color:#2a3147;font-weight:700;}
+tr:last-child td{border-bottom:none;}
+
+/* exercises cycle */
+.cycle{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0;}
+.step{background:var(--accent-soft);color:#33405e;border-radius:10px;padding:8px 12px;font-size:13.5px;font-weight:600;}
+.cycle .arrow{color:var(--accent);font-weight:700;}
+
+/* callouts */
+.warnbox{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:14px;
+  padding:18px 22px;margin:16px 0;}
+.warnbox h2{color:var(--warn);}
+.warnbox ol{margin:6px 0 0;padding-left:20px;} .warnbox li{margin:8px 0;}
+.src{background:#f7f9fe;border:1px dashed #c8d2e6;border-radius:14px;padding:16px 20px;
+  margin:16px 0;font-size:13.5px;color:#3a4258;}
+.src h2{color:var(--muted);}
+mark.warn{background:var(--warn-bg);color:#8a6410;padding:1px 6px;border-radius:6px;
+  font-weight:600;border:1px solid var(--warn-line);}
+.cite{color:var(--muted);font-style:italic;font-size:.92em;}
+ul li{margin:5px 0;}
+a{color:var(--accent);}
+
+@media(max-width:620px){.axes,.split{grid-template-columns:1fr;}.cols{grid-template-columns:1fr;}}
+@media print{
+  body{background:#fff;} .topbar{display:none;}
+  section,.head,.warnbox,.src{box-shadow:none;border:1px solid #ccc;break-inside:avoid;}
+  .wrap{max-width:none;padding:0;}
+}

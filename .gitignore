@@ -4,7 +4,7 @@
 *.pdf
 Vágnerová.pdf
 Kazuistiky 3B.pdf
-zdroje/vagnerova.txt
+**/vagnerova.txt
 
 # === Prostředí / systémové ===
 .venv/
@@ -12,6 +12,7 @@ zdroje/vagnerova.txt
 .DS_Store
 
 # === Pomocné build soubory (karty se generují z karty-data.json) ===
-karty/_fragments/
-karty/_build_cards.py
-karty/_cards_array.js
+# **/ aby platilo v obou větvích (specialni-pedagogika/ i arteterapie/)
+**/_fragments/
+**/_build_cards.py
+**/_cards_array.js
